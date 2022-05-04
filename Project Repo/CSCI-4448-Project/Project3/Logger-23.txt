@@ -1,0 +1,11 @@
+Shaggy arrived at the store.
+Shaggy - 3 items were added to the inventory.
+Shaggy - There is $ 1982.83 in the register.
+Shaggy - There are 30 items in the inventory.
+Shaggy - The inventory is worth 825.
+Shaggy - 3 items were ordered.
+Shaggy - 1 items were damaged during tuning.
+Shaggy - 2 items were bought from customers.
+Shaggy - 3 items were sold to customers.
+Shaggy - 7 items were damaged during cleaning.
+Shaggy has left the store.

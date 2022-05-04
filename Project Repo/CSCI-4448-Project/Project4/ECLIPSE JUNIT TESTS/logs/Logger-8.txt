@@ -1,0 +1,26 @@
+========================================
+Daphne arrived at the NorthSide store.
+Daphne - 0 items were added to the inventory.
+Daphne - There is $ 1790.95 in the register.
+Daphne - There are 39 items in the inventory.
+Daphne - The inventory is worth 1153.
+Daphne - 3 items were ordered.
+Daphne - 3 items were ordered.
+Daphne - 1 items were damaged during tuning.
+Daphne - 3 items were bought from customers.
+Daphne - 0 items were sold to customers.
+Daphne - 1 items were damaged during cleaning.
+Daphne has left the store.
+========================================
+Velma arrived at the SouthSide store.
+Velma - 0 items were added to the inventory.
+Velma - There is $ 2222.53 in the register.
+Velma - There are 44 items in the inventory.
+Velma - The inventory is worth 1136.
+Velma - 3 items were ordered.
+Velma - 3 items were ordered.
+Velma - 0 items were damaged during tuning.
+Velma - 2 items were bought from customers.
+Velma - 3 items were sold to customers.
+Velma - 2 items were damaged during cleaning.
+Velma has left the store.

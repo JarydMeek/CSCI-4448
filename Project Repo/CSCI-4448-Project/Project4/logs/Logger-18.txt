@@ -1,0 +1,25 @@
+========================================
+Scrappy arrived at the NorthSide store.
+Scrappy - 8 items were added to the inventory.
+Scrappy - There is $ 2390.60 in the register.
+Scrappy - There are 34 items in the inventory.
+Scrappy - The inventory is worth 1148.
+Scrappy - 3 items were ordered.
+Scrappy - 2 items were damaged during tuning.
+Scrappy - 2 items were bought from customers.
+Scrappy - 0 items were sold to customers.
+Scrappy - 21 items were damaged during cleaning.
+Scrappy has left the store.
+========================================
+Shaggy arrived at the SouthSide store.
+Shaggy - 3 items were added to the inventory.
+Shaggy - There is $ 2666.12 in the register.
+Shaggy - There are 28 items in the inventory.
+Shaggy - The inventory is worth 951.
+Shaggy - 3 items were ordered.
+Shaggy - 3 items were ordered.
+Shaggy - 2 items were damaged during tuning.
+Shaggy - 1 items were bought from customers.
+Shaggy - 2 items were sold to customers.
+Shaggy - 5 items were damaged during cleaning.
+Shaggy has left the store.

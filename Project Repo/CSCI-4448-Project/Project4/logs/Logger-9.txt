@@ -1,0 +1,24 @@
+========================================
+Fred arrived at the NorthSide store.
+Fred - 3 items were added to the inventory.
+Fred - There is $ 1974.50 in the register.
+Fred - There are 40 items in the inventory.
+Fred - The inventory is worth 1302.
+Fred - 3 items were ordered.
+Fred - 3 items were ordered.
+Fred - 0 items were damaged during tuning.
+Fred - 1 items were bought from customers.
+Fred - 1 items were sold to customers.
+Fred - 4 items were damaged during cleaning.
+Fred has left the store.
+========================================
+Daphne arrived at the SouthSide store.
+Daphne - 4 items were added to the inventory.
+Daphne - There is $ 2148.62 in the register.
+Daphne - There are 45 items in the inventory.
+Daphne - The inventory is worth 1372.
+Daphne - 2 items were damaged during tuning.
+Daphne - 1 items were bought from customers.
+Daphne - 2 items were sold to customers.
+Daphne - 0 items were damaged during cleaning.
+Daphne has left the store.

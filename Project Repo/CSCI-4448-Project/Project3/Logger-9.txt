@@ -1,0 +1,10 @@
+Daphne arrived at the store.
+Daphne - 0 items were added to the inventory.
+Daphne - There is $ 1439.92 in the register.
+Daphne - There are 43 items in the inventory.
+Daphne - The inventory is worth 1411.
+Daphne - 4 items were damaged during tuning.
+Daphne - 1 items were bought from customers.
+Daphne - 3 items were sold to customers.
+Daphne - 0 items were damaged during cleaning.
+Daphne has left the store.

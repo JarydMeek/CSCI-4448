@@ -1,0 +1,434 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		24528DF42807B26200FF6DAE /* WeatherStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24528DF32807B26200FF6DAE /* WeatherStruct.swift */; };
+		710AB74027F292D500A1AB2B /* ExtremePlantTrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 710AB73F27F292D500A1AB2B /* ExtremePlantTrackerApp.swift */; };
+		710AB74227F292D500A1AB2B /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 710AB74127F292D500A1AB2B /* Main.swift */; };
+		710AB74427F292D700A1AB2B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 710AB74327F292D700A1AB2B /* Assets.xcassets */; };
+		710AB74727F292D700A1AB2B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 710AB74627F292D700A1AB2B /* Preview Assets.xcassets */; };
+		710AB75327F2934200A1AB2B /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 710AB75227F2934200A1AB2B /* Weather.swift */; };
+		710AB75527F2938500A1AB2B /* MyPlants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 710AB75427F2938500A1AB2B /* MyPlants.swift */; };
+		710AB75727F2A0ED00A1AB2B /* AddPlants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 710AB75627F2A0ED00A1AB2B /* AddPlants.swift */; };
+		71A7AD0E280772E8004C6FCE /* PostgresClientKit in Frameworks */ = {isa = PBXBuildFile; productRef = 71A7AD0D280772E8004C6FCE /* PostgresClientKit */; };
+		71BB9E892807A20C00800780 /* Nursery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BB9E882807A20C00800780 /* Nursery.swift */; };
+		71BB9E8B2807ACA100800780 /* NetworkHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BB9E8A2807ACA000800780 /* NetworkHandler.swift */; };
+		71C2B6CE2814CADA0026C804 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C2B6CD2814CADA0026C804 /* Persistence.swift */; };
+		71C2B6D12814CC6D0026C804 /* ExtremePlantTracker.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 71C2B6CF2814CC6D0026C804 /* ExtremePlantTracker.xcdatamodeld */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		24528DF32807B26200FF6DAE /* WeatherStruct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherStruct.swift; sourceTree = "<group>"; };
+		710AB73C27F292D500A1AB2B /* ExtremePlantTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExtremePlantTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		710AB73F27F292D500A1AB2B /* ExtremePlantTrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtremePlantTrackerApp.swift; sourceTree = "<group>"; };
+		710AB74127F292D500A1AB2B /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
+		710AB74327F292D700A1AB2B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		710AB74627F292D700A1AB2B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		710AB75227F2934200A1AB2B /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
+		710AB75427F2938500A1AB2B /* MyPlants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPlants.swift; sourceTree = "<group>"; };
+		710AB75627F2A0ED00A1AB2B /* AddPlants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPlants.swift; sourceTree = "<group>"; };
+		71B1C1AB280FABC90074B519 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		71BB9E882807A20C00800780 /* Nursery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nursery.swift; sourceTree = "<group>"; };
+		71BB9E8A2807ACA000800780 /* NetworkHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkHandler.swift; sourceTree = "<group>"; };
+		71C2B6CD2814CADA0026C804 /* Persistence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		71C2B6D02814CC6D0026C804 /* ExtremePlantTracker.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ExtremePlantTracker.xcdatamodel; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		710AB73927F292D500A1AB2B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				71A7AD0E280772E8004C6FCE /* PostgresClientKit in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		710AB73327F292D500A1AB2B = {
+			isa = PBXGroup;
+			children = (
+				710AB73E27F292D500A1AB2B /* ExtremePlantTracker */,
+				710AB73D27F292D500A1AB2B /* Products */,
+				71643A7628076B4900EB8355 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		710AB73D27F292D500A1AB2B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				710AB73C27F292D500A1AB2B /* ExtremePlantTracker.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		710AB73E27F292D500A1AB2B /* ExtremePlantTracker */ = {
+			isa = PBXGroup;
+			children = (
+				71B1C1AB280FABC90074B519 /* Info.plist */,
+				710AB73F27F292D500A1AB2B /* ExtremePlantTrackerApp.swift */,
+				71C2B6CD2814CADA0026C804 /* Persistence.swift */,
+				710AB74127F292D500A1AB2B /* Main.swift */,
+				71BB9E8A2807ACA000800780 /* NetworkHandler.swift */,
+				24528DF32807B26200FF6DAE /* WeatherStruct.swift */,
+				71BB9E882807A20C00800780 /* Nursery.swift */,
+				710AB75427F2938500A1AB2B /* MyPlants.swift */,
+				710AB75627F2A0ED00A1AB2B /* AddPlants.swift */,
+				710AB75227F2934200A1AB2B /* Weather.swift */,
+				710AB74327F292D700A1AB2B /* Assets.xcassets */,
+				71C2B6CF2814CC6D0026C804 /* ExtremePlantTracker.xcdatamodeld */,
+				710AB74527F292D700A1AB2B /* Preview Content */,
+			);
+			path = ExtremePlantTracker;
+			sourceTree = "<group>";
+		};
+		710AB74527F292D700A1AB2B /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				710AB74627F292D700A1AB2B /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		71643A7628076B4900EB8355 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		710AB73B27F292D500A1AB2B /* ExtremePlantTracker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 710AB74F27F292D700A1AB2B /* Build configuration list for PBXNativeTarget "ExtremePlantTracker" */;
+			buildPhases = (
+				710AB73827F292D500A1AB2B /* Sources */,
+				710AB73927F292D500A1AB2B /* Frameworks */,
+				710AB73A27F292D500A1AB2B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ExtremePlantTracker;
+			packageProductDependencies = (
+				71A7AD0D280772E8004C6FCE /* PostgresClientKit */,
+			);
+			productName = ExtremePlantTracker;
+			productReference = 710AB73C27F292D500A1AB2B /* ExtremePlantTracker.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		710AB73427F292D500A1AB2B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1330;
+				LastUpgradeCheck = 1330;
+				TargetAttributes = {
+					710AB73B27F292D500A1AB2B = {
+						CreatedOnToolsVersion = 13.3;
+					};
+				};
+			};
+			buildConfigurationList = 710AB73727F292D500A1AB2B /* Build configuration list for PBXProject "ExtremePlantTracker" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 710AB73327F292D500A1AB2B;
+			packageReferences = (
+				71A7AD0C280772E8004C6FCE /* XCRemoteSwiftPackageReference "PostgresClientKit" */,
+			);
+			productRefGroup = 710AB73D27F292D500A1AB2B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				710AB73B27F292D500A1AB2B /* ExtremePlantTracker */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		710AB73A27F292D500A1AB2B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				710AB74727F292D700A1AB2B /* Preview Assets.xcassets in Resources */,
+				710AB74427F292D700A1AB2B /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		710AB73827F292D500A1AB2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				710AB75527F2938500A1AB2B /* MyPlants.swift in Sources */,
+				710AB74227F292D500A1AB2B /* Main.swift in Sources */,
+				71C2B6D12814CC6D0026C804 /* ExtremePlantTracker.xcdatamodeld in Sources */,
+				24528DF42807B26200FF6DAE /* WeatherStruct.swift in Sources */,
+				710AB74027F292D500A1AB2B /* ExtremePlantTrackerApp.swift in Sources */,
+				710AB75727F2A0ED00A1AB2B /* AddPlants.swift in Sources */,
+				710AB75327F2934200A1AB2B /* Weather.swift in Sources */,
+				71BB9E892807A20C00800780 /* Nursery.swift in Sources */,
+				71BB9E8B2807ACA100800780 /* NetworkHandler.swift in Sources */,
+				71C2B6CE2814CADA0026C804 /* Persistence.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		710AB74D27F292D700A1AB2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		710AB74E27F292D700A1AB2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		710AB75027F292D700A1AB2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ExtremePlantTracker/Preview Content\"";
+				DEVELOPMENT_TEAM = 2X8S526W34;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ExtremePlantTracker/Info.plist;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Used for getting current weather";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ooadProject.ExtremePlantTracker;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		710AB75127F292D700A1AB2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ExtremePlantTracker/Preview Content\"";
+				DEVELOPMENT_TEAM = 2X8S526W34;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ExtremePlantTracker/Info.plist;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Used for getting current weather";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ooadProject.ExtremePlantTracker;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		710AB73727F292D500A1AB2B /* Build configuration list for PBXProject "ExtremePlantTracker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				710AB74D27F292D700A1AB2B /* Debug */,
+				710AB74E27F292D700A1AB2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		710AB74F27F292D700A1AB2B /* Build configuration list for PBXNativeTarget "ExtremePlantTracker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				710AB75027F292D700A1AB2B /* Debug */,
+				710AB75127F292D700A1AB2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		71A7AD0C280772E8004C6FCE /* XCRemoteSwiftPackageReference "PostgresClientKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/codewinsdotcom/PostgresClientKit.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		71A7AD0D280772E8004C6FCE /* PostgresClientKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 71A7AD0C280772E8004C6FCE /* XCRemoteSwiftPackageReference "PostgresClientKit" */;
+			productName = PostgresClientKit;
+		};
+/* End XCSwiftPackageProductDependency section */
+
+/* Begin XCVersionGroup section */
+		71C2B6CF2814CC6D0026C804 /* ExtremePlantTracker.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				71C2B6D02814CC6D0026C804 /* ExtremePlantTracker.xcdatamodel */,
+			);
+			currentVersion = 71C2B6D02814CC6D0026C804 /* ExtremePlantTracker.xcdatamodel */;
+			path = ExtremePlantTracker.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 710AB73427F292D500A1AB2B /* Project object */;
+}

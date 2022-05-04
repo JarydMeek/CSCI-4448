@@ -1,0 +1,10 @@
+Velma arrived at the store.
+Velma - 0 items were added to the inventory.
+Velma - There is $ 1195.54 in the register.
+Velma - There are 51 items in the inventory.
+Velma - The inventory is worth 1597.
+Velma - 0 items were damaged during tuning.
+Velma - 2 items were bought from customers.
+Velma - 5 items were sold to customers.
+Velma - 0 items were damaged during cleaning.
+Velma has left the store.

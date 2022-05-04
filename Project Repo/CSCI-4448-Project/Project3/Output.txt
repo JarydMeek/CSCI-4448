@@ -1,0 +1,1240 @@
+Generating start inv
+
+
+
+====== Day 1======
+Shaggy has arrived at store on day 1
+Nothing to unpack today
+There is $0.0 in the cash register
+Shaggy went to the bank and withdrew $1000
+out of stock of GIGBAG
+Shaggy ordered 3 GIGBAG
+ORDERS PRE APPEND
+Gig Bag, Gig Bag, Gig Bag, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Gig Bag, Gig Bag, Gig Bag, END ORDERS POST APPEND
+Player Unequalized Haphazardly
+Instrument out of Tune Haphazardly
+Instrument Adjust Failed Haphazardly
+Instrument out of Tune Haphazardly
+Instrument out of Tune Haphazardly
+Instrument out of Tune Haphazardly
+Instrument Adjust Failed Haphazardly
+Instrument Adjust Failed Haphazardly
+Player Unequalized Haphazardly
+Player Unequalized Haphazardly
+Instrument out of Tune Haphazardly
+Instrument out of Tune Haphazardly
+Instrument out of Tune Haphazardly
+Instrument Adjust Failed Haphazardly
+Instrument Adjust Failed Haphazardly
+Shaggy did not sell a Cassette Player to Customer 0
+Shaggy sold a fair 19.0ft Cable to Customer 1 at 13.651136555999749 after a 10% discount
+Shaggy did not buy a excellent Bandana from Customer 2
+Shaggy is cleaning the store
+Item CD Player damaged, price reduced to 35.01207914742158
+Item Record Player damaged, price reduced to 33.226907153150385
+Item Cassette Player damaged, price reduced to 69.00234112992342
+Item Standard Flute damaged, price reduced to 69.12158456673137
+Item Guitar String broken, removed
+Item Analong String Bundle ( Contents: Practice Amp[1] ) broken, removed
+Item Electric String Bundle ( Contents: Practice Amp[1] Cable[1] ) damaged, price reduced to 55.857376667335885
+Item Practice Amp damaged, price reduced to 72.37330462956045
+Item 10.0ft Cable broken, removed
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 57.99111201597382
+Item CD - Smooth Jazz by Music Guys damaged, price reduced to 22.470095076755815
+Item Electric Bass damaged, price reduced to 70.88247262353742
+Item Standard Flute broken, removed
+Item Medium Hat damaged, price reduced to 63.9995661289031
+Shaggy is leaving the store
+closing register: $1027.3022731119995
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 1 | 0 | 14
+
+
+
+====== Day 2======
+Shaggy has arrived at store on day 2
+Unpacked Gig Bag
+There is $1027.3022731119995 in the cash register
+ORDERS PRE APPEND
+Gig Bag, Gig Bag, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Gig Bag, Gig Bag, END ORDERS POST APPEND
+Instrument out of Tune Haphazardly
+Instrument Tuned Haphazardly
+Item Electric Bass damaged, price reduced to 65.34033577892107
+Player Unequalized Haphazardly
+Instrument Tuned Haphazardly
+Item Electric Guitar broken, removed
+Instrument Tuned Haphazardly
+Item Electric Bass damaged, price reduced to 67.27082759045939
+Instrument Tuned Haphazardly
+Item Electric Mandolin damaged, price reduced to 54.49423414569415
+Instrument Adjust Failed Haphazardly
+Player Equalized Haphazardly
+Player Unequalized Haphazardly
+Player Equalized Haphazardly
+Instrument Adjust Failed Haphazardly
+Shaggy did not sell a Cassette - Bit By Bit by The Mighty Pythons to Customer 0
+Shaggy bought a poor 8.0ft Cable from Customer 1 at 6.1941132964025005 after a 10% increase
+Shaggy bought a fair Paper Score - Moonlight Sonata by Beethoven from Customer 2 at 18.69652175011951 after a 10% increase
+Shaggy bought a poor Analong String Bundle ( Contents: String[1] ) from Customer 3 at 29.722629246558512 after a 10% increase
+Shaggy is cleaning the store
+Item Cassette Player damaged, price reduced to 55.20187290393874
+Item Electric Guitar broken, removed
+Item Electric Bass damaged, price reduced to 52.27226862313686
+Item Harmonica (Key of C) damaged, price reduced to 71.78982020086856
+Item Electric String Bundle ( Contents: Practice Amp[1] Cable[1] ) broken, removed
+Item MP3 Player damaged, price reduced to 66.06050074300363
+Item Electric Mandolin damaged, price reduced to 43.595387316555325
+Item Cassette - Bit By Bit by The Mighty Pythons damaged, price reduced to 45.40588903263524
+Item Cassette Player damaged, price reduced to 47.0548716824144
+Shaggy is leaving the store
+closing register: $972.689008818919
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 1 | 3 | 27
+
+
+
+====== Day 3======
+Shaggy has arrived at store on day 3
+Nothing to unpack today
+There is $972.689008818919 in the cash register
+ORDERS PRE APPEND
+Gig Bag, Gig Bag, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Gig Bag, Gig Bag, END ORDERS POST APPEND
+Player Unequalized Haphazardly
+Player Unequalized Haphazardly
+Instrument out of Tune Haphazardly
+Instrument Adjusted Haphazardly
+Item Standard Flute damaged, price reduced to 55.2972676533851
+Instrument Adjust Failed Haphazardly
+Player Unequalized Haphazardly
+Player Equalized Haphazardly
+Instrument out of Tune Haphazardly
+Instrument Adjusted Haphazardly
+Item Tenor Saxophone damaged, price reduced to 31.198734706397317
+Player Unequalized Haphazardly
+Player Unequalized Haphazardly
+Instrument Tuned Haphazardly
+Item Electric Guitar damaged, price reduced to 33.00889262987206
+Instrument Tuned Haphazardly
+Item Electric Bass damaged, price reduced to 56.705978098829945
+Instrument Adjusted Haphazardly
+Item Harmonica (Key of C) damaged, price reduced to 40.700432541139484
+Shaggy sold a good Gig Bag to Customer 0 at 25.382397201920266 after a 10% discount
+Shaggy sold a good Cassette Player to Customer 1 at 38.81381688558193 after a 10% discount
+Shaggy sold a excellent Cassette Player to Customer 2 at 87.56943708703548
+Shaggy sold a poor Paper Score - Moonlight Sonata by Beethoven to Customer 3 at 2.6894030381345106
+Shaggy sold a fair Vinyl - Rough Jazz by Music Guys to Customer 4 at 39.620009970360584
+Shaggy bought a fair Standard Flute from Customer 5 at 19.96993489649255 after a 10% increase
+Shaggy bought a poor Tenor Saxophone from Customer 6 at 3.6646977784827532
+Shaggy bought a very good Electric String Bundle ( Contents: String[1] ) from Customer 7 at 34.673418095825824
+Shaggy is cleaning the store
+Item Record Player broken, removed
+Item Electric Mandolin damaged, price reduced to 46.77199695660329
+Item Standard Flute damaged, price reduced to 44.23781412270808
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 23.99401570440888
+Item Vinyl - Rough Jazz by Music Guys damaged, price reduced to 43.20226956247993
+Item Cassette - Bit By Bit by The Mighty Pythons damaged, price reduced to 43.22493056497684
+Item Medium Hat damaged, price reduced to 64.77889693507268
+Item Medium Shirt damaged, price reduced to 26.295901422916216
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 46.39288961277906
+Item CD Player damaged, price reduced to 48.83873564012748
+Item Record Player damaged, price reduced to 77.14480925118951
+Item Electric Guitar broken, removed
+Item Medium Hat damaged, price reduced to 51.199652903122484
+Item Electric String Bundle ( Contents: String[1] ) damaged, price reduced to 54.92861810653079
+Shaggy is leaving the store
+closing register: $1144.7062881610339
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 6 | 6 | 46
+
+
+
+====== Day 4======
+Velma has arrived at store on day 4
+Unpacked Gig Bag
+There is $1144.7062881610339 in the cash register
+out of stock of GUITAR
+Velma ordered 3 GUITAR
+ORDERS PRE APPEND
+Electric Guitar, Electric Guitar, Electric Guitar, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Electric Guitar, Electric Guitar, Electric Guitar, END ORDERS POST APPEND
+Player Equalized Electronically
+Player Equalized Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Player Equalized Electronically
+Player Equalized Electronically
+Player Equalized Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Player Equalized Electronically
+Player Equalized Electronically
+Player Equalized Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Velma sold a fair Vinyl - Rough Jazz by Music Guys to Customer 0 at 43.20226956247993
+Velma did not buy a very good MP3 Player from Customer 1
+Velma is cleaning the store
+Item CD Player damaged, price reduced to 28.009663317937267
+Item Bandana damaged, price reduced to 62.32227547742424
+Item Electric String Bundle ( Contents: String[1] ) damaged, price reduced to 43.942894485224635
+Velma is leaving the store
+closing register: $1187.9085577235137
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 6 | 6 | 46
+Velma | 1 | 0 | 3
+
+
+
+====== Day 5======
+Velma has arrived at store on day 5
+Unpacked Electric Guitar
+There is $1187.9085577235137 in the cash register
+ORDERS PRE APPEND
+Electric Guitar, Electric Guitar, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Electric Guitar, Electric Guitar, END ORDERS POST APPEND
+Player Equalized Electronically
+Player Equalized Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Player Equalized Electronically
+Player Equalized Electronically
+Player Equalized Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Player Equalized Electronically
+Player Equalized Electronically
+Player Equalized Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Instrument Tuned Electronically
+Velma sold a poor CD Player to Customer 0 at 19.694294520424638 after a 10% discount
+Velma sold a good Cassette - Bit By Bit by The Mighty Pythons to Customer 1 at 61.196001096365784
+Velma bought a excellent Electric String Bundle ( Contents: String[2] ) from Customer 2 at 46.865165882034745
+Velma bought a very good 9.0ft Cable from Customer 3 at 31.911554363350273
+Velma is cleaning the store
+Item Standard Flute damaged, price reduced to 35.39025129816647
+Item Electric String Bundle ( Contents: Cable[1] ) damaged, price reduced to 34.813916679392
+Velma is leaving the store
+closing register: $1195.5365355606382
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 6 | 6 | 46
+Velma | 3 | 2 | 5
+
+
+
+====== Day 6======
+Velma has arrived at store on day 6
+Nothing to unpack today
+There is $1195.5365355606382 in the cash register
+ORDERS PRE APPEND
+Electric Guitar, Electric Guitar, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Electric Guitar, Electric Guitar, END ORDERS POST APPEND
+Player Equalized Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Player Equalized Electronically
+Player Equalized Electronically
+Player Equalized Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Player Equalized Electronically
+Player Equalized Electronically
+Player Equalized Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Instrument Tuned Electronically
+Velma sold a fair CD - Smooth Jazz by Music Guys to Customer 0 at 30.94081350104532
+Velma sold a fair Electric Mandolin to Customer 1 at 46.77199695660329
+Velma sold a fair Electric String Bundle ( Contents: Cable[1] ) to Customer 1 at 19.582828132158003 after a 10% discount
+Velma sold a good Guitar String to Customer 2 at 42.39449196049995
+Velma sold a good Medium Hat to Customer 3 at 56.832158149574134
+Velma bought a good Guitar String from Customer 4 at 23.661107534719942 after a 10% increase
+Velma bought a poor Electric Bass from Customer 5 at 8.567620981872782 after a 10% increase
+Velma is cleaning the store
+Velma is leaving the store
+closing register: $1371.5797926232208
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 6 | 6 | 46
+Velma | 8 | 4 | 5
+
+
+
+====== Day 7======
+Store is not open on Sundays
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 6 | 6 | 46
+Velma | 8 | 4 | 5
+
+
+
+====== Day 8======
+Velma is sick today.
+Daphne has arrived at store on day 8
+Nothing to unpack today
+There is $1371.5797926232208 in the cash register
+ORDERS PRE APPEND
+END ORDERS PRE APPEND
+ORDERS POST APPEND
+END ORDERS POST APPEND
+Instrument Adjust Failed Manually
+Item Harmonica (Key of C) damaged, price reduced to 57.43185616069485
+Player Unequalized Manually
+Instrument Adjust Failed Manually
+Item Harmonica (Key of C) damaged, price reduced to 49.767124963184685
+Instrument Adjust Failed Manually
+Item Tenor Saxophone broken, removed
+Instrument out of Tune Manually
+Item Electric Bass damaged, price reduced to 45.36478247906396
+Daphne sold a poor Paper Score - Moonlight Sonata by Beethoven to Customer 0 at 23.99401570440888
+Daphne sold a very good MP3 Player to Customer 1 at 78.84926500962892
+Daphne bought a very good Tenor Saxophone from Customer 2 at 34.49880627899534 after a 10% increase
+Daphne is cleaning the store
+Item Bandana damaged, price reduced to 27.004404355993188
+Daphne is leaving the store
+closing register: $1439.9242670582632
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 6 | 6 | 46
+Velma | 8 | 4 | 5
+Daphne | 2 | 1 | 5
+
+
+
+====== Day 9======
+Daphne has arrived at store on day 9
+Nothing to unpack today
+There is $1439.9242670582632 in the cash register
+ORDERS PRE APPEND
+END ORDERS PRE APPEND
+ORDERS POST APPEND
+END ORDERS POST APPEND
+Instrument out of Tune Manually
+Item Electric Bass damaged, price reduced to 41.81781489850949
+Instrument Adjust Failed Manually
+Item Standard Flute broken, removed
+Instrument Adjusted Manually
+Player Equalized Manually
+Instrument Adjusted Manually
+Player Unequalized Manually
+Instrument Tuned Manually
+Instrument Adjust Failed Manually
+Item Harmonica (Key of C) damaged, price reduced to 32.56034603291159
+Instrument Adjust Failed Manually
+Item Tenor Saxophone damaged, price reduced to 27.03941049984319
+Daphne sold a good Medium Hat to Customer 0 at 64.77889693507268
+Daphne did not sell a Gig Bag to Customer 1
+Daphne sold a fair Electric Mandolin to Customer 2 at 30.653006706952958 after a 10% discount
+Daphne sold a fair Electric String Bundle ( Contents: String[1] ) to Customer 2 at 30.89734768492357 after a 10% discount
+Daphne bought a excellent Guitar String from Customer 3 at 48.661528432933856
+Daphne is cleaning the store
+Daphne is leaving the store
+closing register: $1534.826089182004
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 6 | 6 | 46
+Velma | 8 | 4 | 5
+Daphne | 5 | 2 | 9
+
+
+
+====== Day 10======
+Daphne is sick today.
+Shaggy has arrived at store on day 10
+Nothing to unpack today
+There is $1534.826089182004 in the cash register
+out of stock of ELECTRICBUNDLE
+Shaggy ordered 3 ELECTRICBUNDLE
+ORDERS PRE APPEND
+Electric String Bundle ( Contents: String[1] ), Electric String Bundle ( Contents: String[2] ), Electric String Bundle ( Contents: String[1] ), END ORDERS PRE APPEND
+ORDERS POST APPEND
+Electric String Bundle ( Contents: String[1] ), Electric String Bundle ( Contents: String[2] ), Electric String Bundle ( Contents: String[1] ), END ORDERS POST APPEND
+Instrument Adjusted Haphazardly
+Item Tenor Saxophone damaged, price reduced to 56.33050249721886
+Instrument Tuned Haphazardly
+Item Electric Bass damaged, price reduced to 53.816662072367514
+Instrument Adjusted Haphazardly
+Item Standard Flute damaged, price reduced to 61.886380626285245
+Instrument Adjusted Haphazardly
+Item Harmonica (Key of C) damaged, price reduced to 39.81369997054775
+Player Equalized Haphazardly
+Player Equalized Haphazardly
+Player Unequalized Haphazardly
+Shaggy sold a excellent Electric Mandolin to Customer 0 at 37.15433072532204 after a 10% discount
+Shaggy could not sell a String Bundle, as it was out of stock.
+Shaggy did not buy a good Bandana from Customer 1
+Shaggy bought a poor Paper Score - Moonlight Sonata by Beethoven from Customer 2 at 3.2873495594557105 after a 10% increase
+Shaggy bought a poor Electric String Bundle ( Contents: String[3] ) from Customer 3 at 107.71584437322426 after a 10% increase
+Shaggy is cleaning the store
+Item Harmonica (Key of C) damaged, price reduced to 45.945484928555885
+Item CD - Smooth Jazz by Music Guys broken, removed
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 37.114311690223246
+Item CD Player damaged, price reduced to 39.07098851210199
+Item MP3 Player broken, removed
+Item Guitar String damaged, price reduced to 69.33384157680995
+Item Gig Bag damaged, price reduced to 24.712946734702825
+Shaggy is leaving the store
+closing register: $1498.131556699968
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 7 | 8 | 57
+Velma | 8 | 4 | 5
+Daphne | 5 | 2 | 9
+
+
+
+====== Day 11======
+Shaggy has arrived at store on day 11
+Unpacked Electric String Bundle ( Contents: String[2] )
+There is $1498.131556699968 in the cash register
+out of stock of MANDOLIN
+Shaggy ordered 3 MANDOLIN
+ORDERS PRE APPEND
+Electric String Bundle ( Contents: String[1] ), Electric String Bundle ( Contents: String[1] ), Electric Mandolin, Electric Mandolin, Electric Mandolin, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Electric String Bundle ( Contents: String[1] ), Electric String Bundle ( Contents: String[1] ), Electric Mandolin, Electric Mandolin, Electric Mandolin, END ORDERS POST APPEND
+Instrument Adjusted Haphazardly
+Item Harmonica (Key of C) damaged, price reduced to 36.75638794284471
+Instrument Adjust Failed Haphazardly
+Player Equalized Haphazardly
+Item CD Player damaged, price reduced to 28.989940446767577
+Player Equalized Haphazardly
+Instrument out of Tune Haphazardly
+Instrument Adjust Failed Haphazardly
+Player Unequalized Haphazardly
+Instrument Adjust Failed Haphazardly
+Instrument Tuned Haphazardly
+Item Electric Guitar damaged, price reduced to 61.78829168172183
+Shaggy sold a excellent Medium Shirt to Customer 0 at 43.206202434099346 after a 10% discount
+Shaggy sold a poor Harmonica (Key of C) to Customer 1 at 36.75638794284471
+Shaggy did not sell a Electric Guitar to Customer 2
+Shaggy bought a good Record Player from Customer 3 at 30.67301393640046 after a 10% increase
+Shaggy did not buy a good Medium Hat from Customer 4
+Shaggy is cleaning the store
+Item Record Player damaged, price reduced to 27.04379897237484
+Item MP3 Player damaged, price reduced to 52.848400594402904
+Item Analong String Bundle ( Contents: Cable[2] String[3] ) damaged, price reduced to 139.57129553573228
+Item CD - Smooth Jazz by Music Guys broken, removed
+Item CD Player broken, removed
+Shaggy is leaving the store
+closing register: $1590.6273355746112
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 9 | 9 | 65
+Velma | 8 | 4 | 5
+Daphne | 5 | 2 | 9
+
+
+
+====== Day 12======
+Shaggy has arrived at store on day 12
+Unpacked Electric String Bundle ( Contents: String[1] )
+Unpacked Electric Mandolin
+Unpacked Electric Mandolin
+There is $1590.6273355746112 in the cash register
+out of stock of CD
+Shaggy ordered 3 CD
+ORDERS PRE APPEND
+Electric String Bundle ( Contents: String[1] ), Electric Mandolin, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Electric String Bundle ( Contents: String[1] ), Electric Mandolin, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, END ORDERS POST APPEND
+Instrument Adjusted Haphazardly
+Item Tenor Saxophone damaged, price reduced to 45.06440199777509
+Player Unequalized Haphazardly
+Player Equalized Haphazardly
+Player Unequalized Haphazardly
+Instrument Tuned Haphazardly
+Item Electric Bass damaged, price reduced to 43.05332965789401
+Instrument Adjust Failed Haphazardly
+Instrument Adjusted Haphazardly
+Item Harmonica (Key of C) broken, removed
+Instrument out of Tune Haphazardly
+Shaggy sold a fair Medium Hat to Customer 0 at 51.199652903122484
+Shaggy sold a fair Cassette Player to Customer 1 at 47.0548716824144
+Shaggy sold a good Standard Flute to Customer 2 at 61.886380626285245
+Shaggy did not buy a excellent Bandana from Customer 3
+Shaggy bought a poor Electric Bass from Customer 4 at 6.202744466452517 after a 10% increase
+Shaggy did not buy a very good Medium Hat from Customer 5
+Shaggy is cleaning the store
+Item Harmonica (Key of C) damaged, price reduced to 31.850959976438205
+Item Bandana damaged, price reduced to 49.8578203819394
+Item 3.0ft Cable damaged, price reduced to 78.39624714781972
+Item Guitar String damaged, price reduced to 55.46707326144796
+Item Electric Mandolin broken, removed
+Shaggy is leaving the store
+closing register: $1744.5654963199809
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 12 | 10 | 73
+Velma | 8 | 4 | 5
+Daphne | 5 | 2 | 9
+
+
+
+====== Day 13======
+Shaggy is sick today.
+Daphne has arrived at store on day 13
+Unpacked Electric String Bundle ( Contents: String[1] )
+There is $1744.5654963199809 in the cash register
+out of stock of CD
+Daphne ordered 3 CD
+out of stock of FLUTE
+Daphne ordered 3 FLUTE
+out of stock of HAT
+out of stock of CASSETTEPLAYER
+Daphne ordered 3 CASSETTEPLAYER
+ORDERS PRE APPEND
+CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, Standard Flute, Standard Flute, Standard Flute, Cassette Player, Cassette Player, Cassette Player, END ORDERS PRE APPEND
+ORDERS POST APPEND
+CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, Standard Flute, Standard Flute, Standard Flute, Cassette Player, Cassette Player, Cassette Player, END ORDERS POST APPEND
+Instrument Adjusted Manually
+Player Equalized Manually
+Instrument Tuned Manually
+Player Equalized Manually
+Instrument Adjusted Manually
+Instrument Tuned Manually
+Instrument Tuned Manually
+Daphne sold a excellent Practice Amp to Customer 0 at 96.37745094119762
+Daphne bought a very good Electric Mandolin from Customer 1 at 43.0282273626912 after a 10% increase
+Daphne is cleaning the store
+Daphne is leaving the store
+closing register: $1797.9147198984872
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 12 | 10 | 73
+Velma | 8 | 4 | 5
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 14======
+Store is not open on Sundays
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 12 | 10 | 73
+Velma | 8 | 4 | 5
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 15======
+Shaggy has arrived at store on day 15
+Unpacked CD - Smooth Jazz by Music Guys
+Unpacked Standard Flute
+Unpacked Cassette Player
+There is $1797.9147198984872 in the cash register
+out of stock of HAT
+ORDERS PRE APPEND
+CD - Smooth Jazz by Music Guys, Standard Flute, Cassette Player, Cassette Player, END ORDERS PRE APPEND
+ORDERS POST APPEND
+CD - Smooth Jazz by Music Guys, Standard Flute, Cassette Player, Cassette Player, END ORDERS POST APPEND
+Player Equalized Haphazardly
+Player Equalized Haphazardly
+Instrument Adjust Failed Haphazardly
+Shaggy sold a fair Electric String Bundle ( Contents: String[2] ) to Customer 0 at 7.5297622663184915 after a 10% discount
+Shaggy did not sell a 3.0ft Cable to Customer 1
+Shaggy sold a poor Electric Bass to Customer 2 at 41.81781489850949
+Shaggy sold a good Electric Guitar to Customer 3 at 61.78829168172183
+Shaggy did not buy a very good Gig Bag from Customer 4
+Shaggy did not buy a fair Medium Shirt from Customer 5
+Shaggy is cleaning the store
+Item Electric Bass damaged, price reduced to 34.44266372631521
+Item Bandana broken, removed
+Item Electric Bass damaged, price reduced to 36.29182598325117
+Item Electric String Bundle ( Contents: String[1] ) damaged, price reduced to 52.36510068193695
+Item Standard Flute damaged, price reduced to 40.331239301348035
+Shaggy is leaving the store
+closing register: $1916.5803510113556
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 15 | 10 | 78
+Velma | 8 | 4 | 5
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 16======
+Shaggy has arrived at store on day 16
+Unpacked CD - Smooth Jazz by Music Guys
+Unpacked Cassette Player
+There is $1916.5803510113556 in the cash register
+out of stock of GUITAR
+Shaggy ordered 3 GUITAR
+out of stock of HAT
+ORDERS PRE APPEND
+Electric Guitar, Electric Guitar, Electric Guitar, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Electric Guitar, Electric Guitar, Electric Guitar, END ORDERS POST APPEND
+Player Equalized Haphazardly
+Item CD Player broken, removed
+Player Equalized Haphazardly
+Instrument Tuned Haphazardly
+Item Electric Bass broken, removed
+Instrument Tuned Haphazardly
+Item Electric Bass broken, removed
+Instrument Adjusted Haphazardly
+Item Tenor Saxophone broken, removed
+Instrument Tuned Haphazardly
+Item Electric Mandolin damaged, price reduced to 42.21469512639738
+Instrument Adjusted Haphazardly
+Item Standard Flute damaged, price reduced to 32.26499144107843
+Shaggy sold a poor Harmonica (Key of C) to Customer 0 at 27.994007791791383 after a 10% discount
+Shaggy sold a fair Tenor Saxophone to Customer 1 at 31.685907654685607 after a 10% discount
+Shaggy bought a fair Standard Flute from Customer 2 at 18.02248412780928
+Shaggy is cleaning the store
+Item Bandana damaged, price reduced to 39.88625630555152
+Item CD - Smooth Jazz by Music Guys damaged, price reduced to 31.471484004805163
+Item Standard Flute broken, removed
+Item Cassette Player damaged, price reduced to 36.16854579563889
+Shaggy is leaving the store
+closing register: $1967.7816926603382
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 17 | 11 | 88
+Velma | 8 | 4 | 5
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 17======
+Shaggy has arrived at store on day 17
+Unpacked Electric Guitar
+There is $1967.7816926603382 in the cash register
+out of stock of CDPLAYER
+Shaggy ordered 3 CDPLAYER
+out of stock of BASS
+Shaggy ordered 3 BASS
+out of stock of FLUTE
+Shaggy ordered 3 FLUTE
+out of stock of HARMONICA
+Shaggy ordered 3 HARMONICA
+out of stock of HAT
+out of stock of SAXOPHONE
+Shaggy ordered 3 SAXOPHONE
+ORDERS PRE APPEND
+Electric Guitar, Electric Guitar, CD Player, CD Player, CD Player, Electric Bass, Electric Bass, Electric Bass, Standard Flute, Standard Flute, Standard Flute, Harmonica (Key of C), Harmonica (Key of C), Harmonica (Key of C), Tenor Saxophone, Tenor Saxophone, Tenor Saxophone, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Electric Guitar, Electric Guitar, CD Player, CD Player, CD Player, Electric Bass, Electric Bass, Electric Bass, Standard Flute, Standard Flute, Standard Flute, Harmonica (Key of C), Harmonica (Key of C), Harmonica (Key of C), Tenor Saxophone, Tenor Saxophone, Tenor Saxophone, END ORDERS POST APPEND
+Player Unequalized Haphazardly
+Shaggy sold a very good 3.0ft Cable to Customer 0 at 44.09788902064859 after a 10% discount
+Shaggy sold a poor Paper Score - Moonlight Sonata by Beethoven to Customer 1 at 37.114311690223246
+Shaggy bought a very good 7.0ft Cable from Customer 2 at 37.014280512703166 after a 10% increase
+Shaggy bought a fair CD - Smooth Jazz by Music Guys from Customer 3 at 19.668892243386665
+Shaggy is cleaning the store
+Item Record Player broken, removed
+Item Cassette - Bit By Bit by The Mighty Pythons damaged, price reduced to 36.32471122610819
+Item Electric Mandolin damaged, price reduced to 33.77175610111791
+Item Electric String Bundle ( Contents: String[1] ) damaged, price reduced to 8.03967371756964
+Item Cassette Player damaged, price reduced to 28.934836636511115
+Item Electric Guitar broken, removed
+Shaggy is leaving the store
+closing register: $2018.7694540275093
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 19 | 13 | 94
+Velma | 8 | 4 | 5
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 18======
+Shaggy has arrived at store on day 18
+Unpacked Electric Guitar
+Unpacked Electric Bass
+Unpacked Standard Flute
+Unpacked Harmonica (Key of C)
+Unpacked Tenor Saxophone
+There is $2018.7694540275093 in the cash register
+out of stock of PAPERSCORE
+Shaggy ordered 3 PAPERSCORE
+out of stock of CDPLAYER
+Shaggy ordered 3 CDPLAYER
+out of stock of HAT
+out of stock of CABLE
+Shaggy ordered 3 CABLE
+ORDERS PRE APPEND
+CD Player, CD Player, CD Player, Electric Bass, Electric Bass, Standard Flute, Standard Flute, Harmonica (Key of C), Harmonica (Key of C), Tenor Saxophone, Tenor Saxophone, Paper Score - Moonlight Sonata by Beethoven, Paper Score - Moonlight Sonata by Beethoven, Paper Score - Moonlight Sonata by Beethoven, CD Player, CD Player, CD Player, 5.0ft Cable, 6.0ft Cable, 1.0ft Cable, END ORDERS PRE APPEND
+ORDERS POST APPEND
+CD Player, CD Player, CD Player, Electric Bass, Electric Bass, Standard Flute, Standard Flute, Harmonica (Key of C), Harmonica (Key of C), Tenor Saxophone, Tenor Saxophone, Paper Score - Moonlight Sonata by Beethoven, Paper Score - Moonlight Sonata by Beethoven, Paper Score - Moonlight Sonata by Beethoven, CD Player, CD Player, CD Player, 5.0ft Cable, 6.0ft Cable, 1.0ft Cable, END ORDERS POST APPEND
+Instrument out of Tune Haphazardly
+Shaggy bought a fair Vinyl - Rough Jazz by Music Guys from Customer 0 at 15.753796787907907 after a 10% increase
+Shaggy is cleaning the store
+Item Vinyl - Rough Jazz by Music Guys damaged, price reduced to 25.17572537792437
+Item Cassette - Bit By Bit by The Mighty Pythons broken, removed
+Item Record Player damaged, price reduced to 61.71584740095162
+Item Bandana broken, removed
+Item Gig Bag broken, removed
+Item CD - Smooth Jazz by Music Guys damaged, price reduced to 65.71793490767207
+Shaggy is leaving the store
+closing register: $2003.0156572396013
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 19 | 14 | 100
+Velma | 8 | 4 | 5
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 19======
+Shaggy has arrived at store on day 19
+Unpacked Electric Bass
+Unpacked Standard Flute
+Unpacked Harmonica (Key of C)
+Unpacked Tenor Saxophone
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked CD Player
+There is $2003.0156572396013 in the cash register
+out of stock of HAT
+out of stock of CABLE
+Shaggy ordered 3 CABLE
+out of stock of GIGBAG
+Shaggy ordered 3 GIGBAG
+ORDERS PRE APPEND
+CD Player, CD Player, CD Player, Electric Bass, Standard Flute, Harmonica (Key of C), Tenor Saxophone, Paper Score - Moonlight Sonata by Beethoven, Paper Score - Moonlight Sonata by Beethoven, CD Player, CD Player, 5.0ft Cable, 6.0ft Cable, 1.0ft Cable, 15.0ft Cable, 9.0ft Cable, 9.0ft Cable, Gig Bag, Gig Bag, Gig Bag, END ORDERS PRE APPEND
+ORDERS POST APPEND
+CD Player, CD Player, CD Player, Electric Bass, Standard Flute, Harmonica (Key of C), Tenor Saxophone, Paper Score - Moonlight Sonata by Beethoven, Paper Score - Moonlight Sonata by Beethoven, CD Player, CD Player, 5.0ft Cable, 6.0ft Cable, 1.0ft Cable, 15.0ft Cable, 9.0ft Cable, 9.0ft Cable, Gig Bag, Gig Bag, Gig Bag, END ORDERS POST APPEND
+Player Unequalized Haphazardly
+Instrument out of Tune Haphazardly
+Instrument Tuned Haphazardly
+Item Electric Bass damaged, price reduced to 69.26133588629139
+Instrument Adjust Failed Haphazardly
+Shaggy sold a good MP3 Player to Customer 0 at 52.848400594402904
+Shaggy sold a poor Medium Shirt to Customer 1 at 14.791444550390372 after a 10% discount
+Shaggy bought a poor Electric Mandolin from Customer 2 at 1.7941744432608078
+Shaggy is cleaning the store
+Item Practice Amp damaged, price reduced to 57.89864370364836
+Item Practice Amp damaged, price reduced to 42.403686976942495
+Item Guitar String damaged, price reduced to 44.37365860915837
+Item Electric String Bundle ( Contents: String[1] ) damaged, price reduced to 41.89208054554956
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 73.44999690120592
+Shaggy is leaving the store
+closing register: $2077.7361946713677
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 21 | 15 | 106
+Velma | 8 | 4 | 5
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 20======
+Shaggy has arrived at store on day 20
+Unpacked CD Player
+Unpacked CD Player
+Unpacked Standard Flute
+Unpacked Tenor Saxophone
+Unpacked 5.0ft Cable
+Unpacked 1.0ft Cable
+Unpacked 9.0ft Cable
+Unpacked Gig Bag
+There is $2077.7361946713677 in the cash register
+out of stock of MP3
+Shaggy ordered 3 MP3
+out of stock of HAT
+ORDERS PRE APPEND
+Paper Score - Moonlight Sonata by Beethoven, Paper Score - Moonlight Sonata by Beethoven, CD Player, CD Player, 6.0ft Cable, 9.0ft Cable, MP3 Player, MP3 Player, MP3 Player, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Paper Score - Moonlight Sonata by Beethoven, Paper Score - Moonlight Sonata by Beethoven, CD Player, CD Player, 6.0ft Cable, 9.0ft Cable, MP3 Player, MP3 Player, MP3 Player, END ORDERS POST APPEND
+Instrument Adjust Failed Haphazardly
+Instrument Adjust Failed Haphazardly
+Instrument out of Tune Haphazardly
+Instrument Adjust Failed Haphazardly
+Instrument Adjust Failed Haphazardly
+Player Unequalized Haphazardly
+Player Unequalized Haphazardly
+Instrument Adjust Failed Haphazardly
+Instrument Adjust Failed Haphazardly
+Shaggy sold a fair Guitar String to Customer 0 at 44.37365860915837
+Shaggy sold a fair Cassette - Bit By Bit by The Mighty Pythons to Customer 1 at 24.31402344279947 after a 10% discount
+Shaggy bought a excellent Record Player from Customer 2 at 54.32096142852547 after a 10% increase
+Shaggy bought a very good Tenor Saxophone from Customer 3 at 35.07260142208472 after a 10% increase
+Shaggy is cleaning the store
+Item Practice Amp damaged, price reduced to 46.31891496291869
+Item Electric String Bundle ( Contents: String[1] ) broken, removed
+Item Cassette Player broken, removed
+Item Tenor Saxophone broken, removed
+Item Standard Flute damaged, price reduced to 41.931350788942666
+Item CD Player damaged, price reduced to 23.573868286179152
+Item Standard Flute damaged, price reduced to 56.79095500632829
+Shaggy is leaving the store
+closing register: $2071.618727938395
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 23 | 17 | 113
+Velma | 8 | 4 | 5
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 21======
+Store is not open on Sundays
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 23 | 17 | 113
+Velma | 8 | 4 | 5
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 22======
+Shaggy has arrived at store on day 22
+Unpacked MP3 Player
+There is $2071.618727938395 in the cash register
+out of stock of HAT
+out of stock of INSTRUMENTSTRING
+Shaggy ordered 3 INSTRUMENTSTRING
+out of stock of CASSETTE
+Shaggy ordered 3 CASSETTE
+ORDERS PRE APPEND
+Guitar String, Guitar String, Guitar String, Cassette - Bit By Bit by The Mighty Pythons, Cassette - Bit By Bit by The Mighty Pythons, Cassette - Bit By Bit by The Mighty Pythons, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Guitar String, Guitar String, Guitar String, Cassette - Bit By Bit by The Mighty Pythons, Cassette - Bit By Bit by The Mighty Pythons, Cassette - Bit By Bit by The Mighty Pythons, END ORDERS POST APPEND
+Player Unequalized Haphazardly
+Instrument Adjusted Haphazardly
+Item Standard Flute broken, removed
+Instrument Adjusted Haphazardly
+Item Harmonica (Key of C) damaged, price reduced to 41.69754416962671
+Instrument Tuned Haphazardly
+Item Electric Bass broken, removed
+Instrument Adjusted Haphazardly
+Item Standard Flute damaged, price reduced to 33.545080631154136
+Player Equalized Haphazardly
+Instrument Adjusted Haphazardly
+Item Standard Flute damaged, price reduced to 45.43276400506264
+Player Unequalized Haphazardly
+Shaggy bought a good CD - Smooth Jazz by Music Guys from Customer 0 at 27.60046342460884
+Shaggy bought a very good Analong String Bundle ( Contents: Practice Amp[1] ) from Customer 1 at 32.28432355886039
+Shaggy bought a good Gig Bag from Customer 2 at 28.90359145780168 after a 10% increase
+Shaggy is cleaning the store
+Item Analong String Bundle ( Contents: Cable[2] String[3] ) broken, removed
+Item Electric Mandolin broken, removed
+Item CD - Smooth Jazz by Music Guys broken, removed
+Item 1.0ft Cable damaged, price reduced to 27.777033752731626
+Item Gig Bag damaged, price reduced to 55.06194522651987
+Shaggy is leaving the store
+closing register: $1982.830349497124
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 23 | 20 | 123
+Velma | 8 | 4 | 5
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 23======
+Shaggy has arrived at store on day 23
+Unpacked Guitar String
+Unpacked Cassette - Bit By Bit by The Mighty Pythons
+Unpacked Cassette - Bit By Bit by The Mighty Pythons
+There is $1982.830349497124 in the cash register
+out of stock of MANDOLIN
+Shaggy ordered 3 MANDOLIN
+out of stock of HAT
+ORDERS PRE APPEND
+Guitar String, Electric Mandolin, Electric Mandolin, Electric Mandolin, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Guitar String, Electric Mandolin, Electric Mandolin, Electric Mandolin, END ORDERS POST APPEND
+Player Equalized Haphazardly
+Instrument Adjust Failed Haphazardly
+Instrument Adjust Failed Haphazardly
+Instrument Adjusted Haphazardly
+Item Harmonica (Key of C) broken, removed
+Instrument Adjust Failed Haphazardly
+Player Unequalized Haphazardly
+Instrument Adjust Failed Haphazardly
+Player Equalized Haphazardly
+Shaggy sold a very good Medium Shirt to Customer 0 at 32.8326741605358 after a 10% discount
+Shaggy sold a poor Standard Flute to Customer 1 at 33.545080631154136
+Shaggy sold a fair 5.0ft Cable to Customer 2 at 25.40311443190192
+Shaggy bought a good CD - Smooth Jazz by Music Guys from Customer 3 at 33.82915042552192 after a 10% increase
+Shaggy bought a fair Record Player from Customer 4 at 17.80644532789153 after a 10% increase
+Shaggy is cleaning the store
+Item Record Player damaged, price reduced to 49.3726779207613
+Item CD - Smooth Jazz by Music Guys damaged, price reduced to 52.57434792613766
+Item Electric Bass damaged, price reduced to 55.409068709033114
+Item Tenor Saxophone damaged, price reduced to 49.4655130416113
+Item Tenor Saxophone damaged, price reduced to 20.81499640916975
+Item 1.0ft Cable broken, removed
+Item Cassette - Bit By Bit by The Mighty Pythons damaged, price reduced to 75.85360966127533
+Shaggy is leaving the store
+closing register: $2055.8082971278377
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 26 | 22 | 131
+Velma | 8 | 4 | 5
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 24======
+Shaggy has arrived at store on day 24
+Unpacked Guitar String
+There is $2055.8082971278377 in the cash register
+out of stock of MANDOLIN
+Shaggy ordered 3 MANDOLIN
+out of stock of HAT
+out of stock of SHIRT
+ORDERS PRE APPEND
+Electric Mandolin, Electric Mandolin, Electric Mandolin, Electric Mandolin, Electric Mandolin, Electric Mandolin, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Electric Mandolin, Electric Mandolin, Electric Mandolin, Electric Mandolin, Electric Mandolin, Electric Mandolin, END ORDERS POST APPEND
+Instrument Tuned Haphazardly
+Item Electric Guitar damaged, price reduced to 28.534829411976826
+Instrument Adjusted Haphazardly
+Item Harmonica (Key of C) damaged, price reduced to 33.358035335701366
+Instrument Adjusted Haphazardly
+Item Tenor Saxophone damaged, price reduced to 39.57241043328904
+Player Equalized Haphazardly
+Player Unequalized Haphazardly
+Instrument Adjusted Haphazardly
+Item Standard Flute damaged, price reduced to 36.346211204050114
+Shaggy sold a good CD Player to Customer 0 at 27.641069016403744 after a 10% discount
+Shaggy did not buy a good Electric String Bundle ( Contents: Practice Amp[1] Cable[1] ) from Customer 1
+Shaggy bought a poor Practice Amp from Customer 2 at 5.482486256510143
+Shaggy is cleaning the store
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item CD Player broken, removed
+Item Tenor Saxophone broken, removed
+Item MP3 Player broken, removed
+Item Cassette - Bit By Bit by The Mighty Pythons damaged, price reduced to 78.45313166723128
+Item Guitar String damaged, price reduced to 35.329031162541035
+Shaggy is leaving the store
+closing register: $2105.607948904135
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 27 | 23 | 141
+Velma | 8 | 4 | 5
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 25======
+Shaggy is sick today.
+Velma has arrived at store on day 25
+Unpacked Electric Mandolin
+Unpacked Electric Mandolin
+There is $2105.607948904135 in the cash register
+out of stock of VINYL
+Velma ordered 3 VINYL
+out of stock of MP3
+Velma ordered 3 MP3
+out of stock of HAT
+out of stock of SHIRT
+ORDERS PRE APPEND
+Electric Mandolin, Electric Mandolin, Electric Mandolin, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, MP3 Player, MP3 Player, MP3 Player, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Electric Mandolin, Electric Mandolin, Electric Mandolin, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, MP3 Player, MP3 Player, MP3 Player, END ORDERS POST APPEND
+Player Equalized Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Player Equalized Electronically
+Instrument Adjusted Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Velma sold a good Electric Bass to Customer 0 at 55.409068709033114
+Velma sold a poor Electric String Bundle ( Contents: String[1] ) to Customer 0 at 29.455369133589535 after a 10% discount
+Velma sold a good CD - Smooth Jazz by Music Guys to Customer 1 at 36.966338385565535 after a 10% discount
+Velma sold a very good Analong String Bundle ( Contents: Cable[1] ) to Customer 2 at 72.36072195106115
+Velma bought a good CD Player from Customer 3 at 24.677894932229307
+Velma did not buy a good Record Player from Customer 4
+Velma bought a poor CD Player from Customer 5 at 6.708091005100778
+Velma is cleaning the store
+Item Cassette - Bit By Bit by The Mighty Pythons damaged, price reduced to 60.682887729020266
+Velma is leaving the store
+closing register: $2287.0115392514176
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 27 | 23 | 141
+Velma | 12 | 6 | 6
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 26======
+Velma has arrived at store on day 26
+Unpacked Electric Mandolin
+Unpacked Electric Mandolin
+Unpacked MP3 Player
+There is $2287.0115392514176 in the cash register
+out of stock of CD
+Velma ordered 3 CD
+out of stock of VINYL
+Velma ordered 3 VINYL
+out of stock of BASS
+Velma ordered 3 BASS
+out of stock of HAT
+out of stock of SHIRT
+out of stock of ELECTRICBUNDLE
+Velma ordered 3 ELECTRICBUNDLE
+out of stock of ANALOGBUNDLE
+Velma ordered 3 ANALOGBUNDLE
+ORDERS PRE APPEND
+Electric Mandolin, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, MP3 Player, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Electric Bass, Electric Bass, Electric Bass, Electric String Bundle ( Contents: Gig Bag[1] Cable[2] ), Electric String Bundle ( Contents: Gig Bag[1] Practice Amp[1] Cable[1] String[1] ), Electric String Bundle ( Contents: Gig Bag[1] String[3] ), Analong String Bundle ( Contents: String[1] ), Analong String Bundle ( Contents: Cable[1] String[1] ), Analong String Bundle ( Contents: String[1] ), END ORDERS PRE APPEND
+ORDERS POST APPEND
+Electric Mandolin, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, MP3 Player, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Electric Bass, Electric Bass, Electric Bass, Electric String Bundle ( Contents: Gig Bag[1] Cable[2] ), Electric String Bundle ( Contents: Gig Bag[1] Practice Amp[1] Cable[1] String[1] ), Electric String Bundle ( Contents: Gig Bag[1] String[3] ), Analong String Bundle ( Contents: String[1] ), Analong String Bundle ( Contents: Cable[1] String[1] ), Analong String Bundle ( Contents: String[1] ), END ORDERS POST APPEND
+Player Equalized Electronically
+Instrument Tuned Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Player Equalized Electronically
+Instrument Adjusted Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Player Equalized Electronically
+Velma sold a fair CD Player to Customer 0 at 32.743087821690196
+Velma bought a fair Record Player from Customer 1 at 22.882650244529227 after a 10% increase
+Velma is cleaning the store
+Item Cassette - Bit By Bit by The Mighty Pythons damaged, price reduced to 48.546310183216214
+Velma is leaving the store
+closing register: $2296.8719768285787
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 27 | 23 | 141
+Velma | 13 | 7 | 7
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 27======
+Velma has arrived at store on day 27
+Unpacked Electric Mandolin
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+There is $2296.8719768285787 in the cash register
+out of stock of CD
+Velma ordered 3 CD
+out of stock of CDPLAYER
+Velma ordered 3 CDPLAYER
+out of stock of BASS
+Velma ordered 3 BASS
+out of stock of HAT
+out of stock of SHIRT
+out of stock of ELECTRICBUNDLE
+Velma ordered 3 ELECTRICBUNDLE
+out of stock of ANALOGBUNDLE
+Velma ordered 3 ANALOGBUNDLE
+ORDERS PRE APPEND
+Vinyl - Rough Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Electric Bass, Electric Bass, Electric Bass, Electric String Bundle ( Contents: Gig Bag[1] Cable[2] ), Electric String Bundle ( Contents: Gig Bag[1] Practice Amp[1] Cable[1] String[1] ), Electric String Bundle ( Contents: Gig Bag[1] String[3] ), Analong String Bundle ( Contents: String[1] ), Analong String Bundle ( Contents: Cable[1] String[1] ), Analong String Bundle ( Contents: String[1] ), CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD Player, CD Player, CD Player, Electric Bass, Electric Bass, Electric Bass, Electric String Bundle ( Contents: String[3] ), Electric String Bundle ( Contents: Practice Amp[1] Cable[1] ), Electric String Bundle ( Contents: Practice Amp[1] ), Analong String Bundle ( Contents: Gig Bag[1] Cable[2] String[2] ), Analong String Bundle ( Contents: String[1] ), Analong String Bundle ( Contents: Cable[1] ), END ORDERS PRE APPEND
+ORDERS POST APPEND
+Vinyl - Rough Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Vinyl - Rough Jazz by Music Guys, Electric Bass, Electric Bass, Electric Bass, Electric String Bundle ( Contents: Gig Bag[1] Cable[2] ), Electric String Bundle ( Contents: Gig Bag[1] Practice Amp[1] Cable[1] String[1] ), Electric String Bundle ( Contents: Gig Bag[1] String[3] ), Analong String Bundle ( Contents: String[1] ), Analong String Bundle ( Contents: Cable[1] String[1] ), Analong String Bundle ( Contents: String[1] ), CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD - Smooth Jazz by Music Guys, CD Player, CD Player, CD Player, Electric Bass, Electric Bass, Electric Bass, Electric String Bundle ( Contents: String[3] ), Electric String Bundle ( Contents: Practice Amp[1] Cable[1] ), Electric String Bundle ( Contents: Practice Amp[1] ), Analong String Bundle ( Contents: Gig Bag[1] Cable[2] String[2] ), Analong String Bundle ( Contents: String[1] ), Analong String Bundle ( Contents: Cable[1] ), END ORDERS POST APPEND
+Player Equalized Electronically
+Instrument Tuned Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Instrument Adjusted Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Instrument Tuned Electronically
+Player Equalized Electronically
+Instrument Tuned Electronically
+Velma sold a poor Cassette Player to Customer 0 at 20.90224523555569
+Velma bought a excellent Cassette - Bit By Bit by The Mighty Pythons from Customer 1 at 46.300069487013644 after a 10% increase
+Velma is cleaning the store
+Item Electric Mandolin broken, removed
+Velma is leaving the store
+closing register: $2271.4741525771205
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 27 | 23 | 141
+Velma | 14 | 8 | 8
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 28======
+Store is not open on Sundays
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 27 | 23 | 141
+Velma | 14 | 8 | 8
+Daphne | 6 | 3 | 9
+
+
+
+====== Day 29======
+Daphne has arrived at store on day 29
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Electric Bass
+Unpacked Electric String Bundle ( Contents: Gig Bag[1] Cable[2] )
+Unpacked Electric String Bundle ( Contents: Gig Bag[1] String[3] )
+Unpacked Analong String Bundle ( Contents: Cable[1] String[1] )
+Unpacked CD - Smooth Jazz by Music Guys
+Unpacked CD Player
+Unpacked Electric Bass
+Unpacked Electric String Bundle ( Contents: Practice Amp[1] Cable[1] )
+Unpacked Analong String Bundle ( Contents: Gig Bag[1] Cable[2] String[2] )
+There is $2271.4741525771205 in the cash register
+out of stock of HAT
+out of stock of SHIRT
+out of stock of CASSETTEPLAYER
+Daphne ordered 3 CASSETTEPLAYER
+ORDERS PRE APPEND
+CD Player, Electric String Bundle ( Contents: String[3] ), Electric String Bundle ( Contents: Practice Amp[1] ), Cassette Player, Cassette Player, Cassette Player, END ORDERS PRE APPEND
+ORDERS POST APPEND
+CD Player, Electric String Bundle ( Contents: String[3] ), Electric String Bundle ( Contents: Practice Amp[1] ), Cassette Player, Cassette Player, Cassette Player, END ORDERS POST APPEND
+Instrument Adjust Failed Manually
+Item Tenor Saxophone broken, removed
+Instrument out of Tune Manually
+Item Electric Mandolin damaged, price reduced to 22.96651280228182
+Instrument Tuned Manually
+Player Equalized Manually
+Instrument Tuned Manually
+Daphne sold a excellent CD Player to Customer 0 at 94.5979932382602
+Daphne sold a fair Practice Amp to Customer 1 at 46.31891496291869
+Daphne bought a excellent Guitar String from Customer 2 at 50.8415539403746 after a 10% increase
+Daphne is cleaning the store
+Daphne is leaving the store
+closing register: $2361.549506837925
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 27 | 23 | 141
+Velma | 14 | 8 | 8
+Daphne | 8 | 4 | 11
+
+
+
+====== Day 30======
+Daphne is sick today.
+Shaggy has arrived at store on day 30
+Unpacked CD Player
+Unpacked Electric String Bundle ( Contents: Practice Amp[1] )
+There is $2361.549506837925 in the cash register
+out of stock of HAT
+out of stock of SHIRT
+out of stock of SAXOPHONE
+Shaggy ordered 3 SAXOPHONE
+out of stock of CASSETTEPLAYER
+Shaggy ordered 3 CASSETTEPLAYER
+ORDERS PRE APPEND
+Cassette Player, Cassette Player, Tenor Saxophone, Tenor Saxophone, Tenor Saxophone, Cassette Player, Cassette Player, Cassette Player, END ORDERS PRE APPEND
+ORDERS POST APPEND
+Cassette Player, Cassette Player, Tenor Saxophone, Tenor Saxophone, Tenor Saxophone, Cassette Player, Cassette Player, Cassette Player, END ORDERS POST APPEND
+Instrument Adjusted Haphazardly
+Item Standard Flute broken, removed
+Instrument Tuned Haphazardly
+Item Electric Mandolin damaged, price reduced to 48.2063929597153
+Player Equalized Haphazardly
+Instrument Tuned Haphazardly
+Item Electric Bass broken, removed
+Shaggy sold a good Gig Bag to Customer 0 at 30.972344189917425 after a 10% discount
+Shaggy sold a poor Bandana to Customer 1 at 15.189977450246168 after a 10% discount
+Shaggy bought a very good Electric Mandolin from Customer 2 at 33.23745718996156
+Shaggy is cleaning the store
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 58.75999752096474
+Item Cassette - Bit By Bit by The Mighty Pythons damaged, price reduced to 62.76250533378502
+Item Vinyl - Rough Jazz by Music Guys damaged, price reduced to 76.68098281298357
+Item Analong String Bundle ( Contents: Cable[1] String[1] ) damaged, price reduced to 88.87609426147591
+Item Electric String Bundle ( Contents: Practice Amp[1] Cable[1] ) damaged, price reduced to 47.29229791423626
+Shaggy is leaving the store
+closing register: $2402.171764272225
+Clerk   | Items Sold | Items Purchased | Items Damaged
+Shaggy | 29 | 24 | 149
+Velma | 14 | 8 | 8
+Daphne | 8 | 4 | 11
+
+
+
+====================
+STORE SUMMARY: DAY 31
+====================
+--Inventory--
+Record Player - $48.21550578199344
+Practice Amp - $26.502304360589058
+Electric Guitar - $17.834268382485515
+Harmonica (Key of C) - $26.060965106016692
+Paper Score - Moonlight Sonata by Beethoven - $45.9062480632537
+9.0ft Cable - $2.0313223259173343
+Guitar String - $50.02278412271376
+Cassette - Bit By Bit by The Mighty Pythons - $49.03320729201954
+Cassette - Bit By Bit by The Mighty Pythons - $47.40850603829708
+Guitar String - $22.080644476588144
+Electric Mandolin - $50.4270738627813
+Electric Mandolin - $30.128995599822062
+Electric Mandolin - $14.354070501426136
+MP3 Player - $21.531350485857992
+Electric Mandolin - $33.0219228208688
+Vinyl - Rough Jazz by Music Guys - $47.925614258114734
+Vinyl - Rough Jazz by Music Guys - $17.71517578056917
+Vinyl - Rough Jazz by Music Guys - $17.68556311072426
+Electric Bass - $3.437564066320703
+Electric String Bundle ( Contents: Gig Bag[1] Cable[2] ) - $81.44571853750554
+Electric String Bundle ( Contents: Gig Bag[1] String[3] ) - $82.08172960757135
+Analong String Bundle ( Contents: Cable[1] String[1] ) - $55.54755891342244
+CD - Smooth Jazz by Music Guys - $33.7492653905805
+Electric String Bundle ( Contents: Practice Amp[1] Cable[1] ) - $29.55768619639766
+Analong String Bundle ( Contents: Gig Bag[1] Cable[2] String[2] ) - $127.19540641007234
+CD Player - $32.67100078875774
+Electric String Bundle ( Contents: Practice Amp[1] ) - $18.501697371333623
+Total Price of All Items in Inventory: $1032.0731496520004
+--Items Sold--
+19.0ft Cable - $27.302273111999497
+Gig Bag - $50.76479440384053
+Cassette Player - $49.68168561354487
+Cassette Player - $87.56943708703548
+Paper Score - Moonlight Sonata by Beethoven - $2.6894030381345106
+Vinyl - Rough Jazz by Music Guys - $39.620009970360584
+Vinyl - Rough Jazz by Music Guys - $43.20226956247993
+CD Player - $25.20869698614354
+Cassette - Bit By Bit by The Mighty Pythons - $61.196001096365784
+CD - Smooth Jazz by Music Guys - $30.94081350104532
+Electric Mandolin - $46.77199695660329
+Electric String Bundle ( Contents: Cable[1] ) - $31.332525011452802
+Guitar String - $42.39449196049995
+Medium Hat - $56.832158149574134
+Paper Score - Moonlight Sonata by Beethoven - $23.99401570440888
+MP3 Player - $78.84926500962892
+Medium Hat - $64.77889693507268
+Electric Mandolin - $39.23584858489979
+Electric String Bundle ( Contents: String[1] ) - $39.54860503670217
+Electric Mandolin - $74.30866145064408
+Medium Shirt - $86.41240486819869
+Harmonica (Key of C) - $36.75638794284471
+Medium Hat - $51.199652903122484
+Cassette Player - $47.0548716824144
+Standard Flute - $61.886380626285245
+Practice Amp - $96.37745094119762
+Electric String Bundle ( Contents: String[2] ) - $15.059524532636983
+Electric Bass - $41.81781489850949
+Electric Guitar - $61.78829168172183
+Harmonica (Key of C) - $28.665863978794384
+Tenor Saxophone - $40.557961797997585
+3.0ft Cable - $70.55662243303775
+Paper Score - Moonlight Sonata by Beethoven - $37.114311690223246
+MP3 Player - $52.848400594402904
+Medium Shirt - $23.666311280624594
+Guitar String - $44.37365860915837
+Cassette - Bit By Bit by The Mighty Pythons - $38.90243750847915
+Medium Shirt - $65.6653483210716
+Standard Flute - $33.545080631154136
+5.0ft Cable - $25.40311443190192
+CD Player - $55.28213803280749
+Electric Bass - $55.409068709033114
+Electric String Bundle ( Contents: String[1] ) - $37.70287249099461
+CD - Smooth Jazz by Music Guys - $47.3169131335239
+Analong String Bundle ( Contents: Cable[1] ) - $72.36072195106115
+CD Player - $32.743087821690196
+Cassette Player - $20.90224523555569
+CD Player - $94.5979932382602
+Practice Amp - $46.31891496291869
+Gig Bag - $49.55575070386788
+Bandana - $24.30396392039387
+Total Price of All Items Sold: $2412.367410724321
+--Money--
+Current cash register: $2402.171764272225
+Total withdrawn from bank: $1000.0
+====================

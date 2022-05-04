@@ -1,0 +1,33 @@
+--- TESTING STRING BUNDLE ---
+Decorator Class PASS, Bundle types are not the same
+--- TESTING STORE ---
+Generating start inv
+Generate Starting Inventory PASSED, Items created: 66 [expected 66]
+Clerk passing PASSED, C1 name: Clerk 1 [expected `Clerk 1`]
+--- TESTING TUNING METHODS ---
+Player Unequalized Haphazardly
+Player Equalized Manually
+Player Equalized Electronically
+3 Tuning Types PASSED, pre-state: false
+Tune Results (H, M, E): true true true
+--- TESTING GUITARKIT ---
+Component Creation PASSED, name: C3, price: -5.0 [expected `C3`, -5]
+Custom Guitar Kit Creation PASSED, name: Custom Guitar - C1 C2 C3  [expected `Custom Guitar - C1 C2 C3 `]
+Custom Guitar Kit Price Logic PASSED, price: 10.0 [expected 10]
+--- TESTING CUSTOMER ---
+Constructor PASSED, c1 buying, c2 NOT buying
+Interest Changing PASSED, from MP3 -> BASS
+--- TESTING CLERK ---
+Clerk Name PASSED, Name out: Clerk 1, Name passed: Clerk 1
+There is $50.0 in the cash register
+Clerk 1 went to the bank and withdrew $1000
+Clerk Register Check PASSED, went to store when balance was 50
+There is $900.0 in the cash register
+Clerk Register Check PASSED, did NOT go to store when balance was 900
+Clerk 1 is leaving the store
+Clerk Leave PASSED, Days after 1 leave: 1
+--- TESTING ITEMS ---
+Instrument String PASSED, Type set to: Guitar
+Type PASSED, Instrument String Type: INSTRUMENTSTRING
+Type Overriding PASSED, Instrument String v. Guitar Type: INSTRUMENTSTRING v. GUITAR
+Item Factory PASSED, cassette created with band: The Mighty Pythons

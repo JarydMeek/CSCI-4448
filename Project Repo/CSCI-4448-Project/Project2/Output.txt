@@ -1,0 +1,1314 @@
+javac    *.java
+java Project2Part2Driver
+
+
+
+====== Day 1======
+Shaggy has arrived at store on day 1
+Nothing to unpack today
+There is $0.0 in the cash register
+Shaggy went to the bank and withdrew $1000
+Shaggy sold a good Practice Amp to Customer 0 at 60.3711365917069
+Shaggy did not sell a Record Player to Customer 1
+Shaggy sold a good Vinyl - Rough Jazz by Music Guys to Customer 2 at 42.71600725397632
+Shaggy sold a poor Standard Flute to Customer 3 at 6.9324115826660515 after a 10% discount
+Shaggy sold a very good Vinyl - Rough Jazz by Music Guys to Customer 4 at 31.78765396952969 after a 10% discount
+Shaggy sold a very good Vinyl - Rough Jazz by Music Guys to Customer 5 at 71.68790428124437
+Shaggy sold a excellent Electric Mandolin to Customer 6 at 42.365867043450095 after a 10% discount
+Shaggy did not buy a excellent CD - Smooth Jazz by Music Guys from Customer 7
+Shaggy bought a very good CD Player from Customer 8 at 36.20362925046476
+Shaggy is cleaning the store
+Item Record Player damaged, price reduced to 59.93013932175631
+Item Electric Guitar damaged, price reduced to 70.75779273927058
+Item CD - Smooth Jazz by Music Guys broken, removed
+Item CD Player broken, removed
+Item Electric Guitar damaged, price reduced to 23.43228168985553
+Item Electric Mandolin damaged, price reduced to 78.8968125492583
+Item Bandana damaged, price reduced to 78.91450211290527
+Item Electric Guitar broken, removed
+Item Electric Bass damaged, price reduced to 45.10675155266314
+Shaggy is leaving the store
+closing register: $1300.7432840677548
+
+
+
+====== Day 2======
+Shaggy has arrived at store on day 2
+Nothing to unpack today
+There is $1300.7432840677548 in the cash register
+out of stock of VINYL
+Shaggy ordered 3 VINYL
+Shaggy sold a good Record Player to Customer 0 at 33.71070336848792 after a 10% discount
+Shaggy sold a good MP3 Player to Customer 1 at 27.432147194735585 after a 10% discount
+Shaggy sold a good Standard Flute to Customer 2 at 26.79230064917573 after a 10% discount
+Shaggy sold a very good Electric Guitar to Customer 3 at 70.75779273927058
+Shaggy sold a poor Electric Guitar to Customer 4 at 13.180658450543735 after a 10% discount
+Shaggy sold a good Bandana to Customer 5 at 19.808203984966084 after a 10% discount
+Shaggy bought a good CD - Smooth Jazz by Music Guys from Customer 6 at 27.002957656448032
+Shaggy is cleaning the store
+Item 19.0ft Cable damaged, price reduced to 47.02904577320388
+Item Paper Score - Moonlight Sonata by Beethoven broken, removed
+Item Electric Mandolin damaged, price reduced to 63.11745003940664
+Item Harmonica (Key of C) damaged, price reduced to 27.316699232423982
+Item Guitar String damaged, price reduced to 18.54138606427404
+Item Record Player damaged, price reduced to 74.40543645831326
+Item Harmonica (Key of C) broken, removed
+Item Bandana damaged, price reduced to 33.8075405699503
+Shaggy is leaving the store
+closing register: $1474.4463676156815
+
+
+
+====== Day 3======
+Shaggy has arrived at store on day 3
+Nothing to unpack today
+There is $1474.4463676156815 in the cash register
+out of stock of VINYL
+Shaggy ordered 3 VINYL
+out of stock of GUITAR
+Shaggy ordered 3 GUITAR
+Shaggy sold a very good CD Player to Customer 0 at 78.71696363893162
+Shaggy sold a excellent Guitar String to Customer 1 at 44.10256628009653 after a 10% discount
+Shaggy sold a very good Medium Shirt to Customer 2 at 73.24842232294195
+Shaggy sold a good Medium Shirt to Customer 3 at 22.47362323247669 after a 10% discount
+Shaggy did not sell a Paper Score - Moonlight Sonata by Beethoven to Customer 4
+Shaggy sold a poor Medium Hat to Customer 5 at 7.451396404006729 after a 10% discount
+Shaggy sold a good MP3 Player to Customer 6 at 24.308185830050455 after a 10% discount
+Shaggy bought a good MP3 Player from Customer 7 at 27.75585005615763
+Shaggy bought a good Electric Bass from Customer 8 at 30.206288547953093
+Shaggy is cleaning the store
+Item Harmonica (Key of C) broken, removed
+Item Guitar String broken, removed
+Item MP3 Player damaged, price reduced to 39.682169621490644
+Item Electric Bass damaged, price reduced to 36.085401242130516
+Item Standard Flute damaged, price reduced to 81.31609481153734
+Item Medium Hat damaged, price reduced to 29.74818916360563
+Shaggy is leaving the store
+closing register: $1463.5387015503927
+
+
+
+====== Day 4======
+Velma has arrived at store on day 4
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Electric Guitar
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Electric Guitar
+There is $1463.5387015503927 in the cash register
+Velma sold a fair Electric Bass to Customer 0 at 17.143292327117763 after a 10% discount
+Velma sold a excellent Medium Shirt to Customer 1 at 88.614918475482
+Velma sold a good Electric Mandolin to Customer 2 at 44.37945705895779 after a 10% discount
+Velma sold a poor CD - Smooth Jazz by Music Guys to Customer 3 at 4.000574679613767 after a 10% discount
+Velma sold a very good Bandana to Customer 4 at 78.91450211290527
+Velma sold a excellent Practice Amp to Customer 5 at 99.67140160700872
+Velma bought a good Medium Shirt from Customer 6 at 24.215104511575483
+Velma is cleaning the store
+Item Paper Score - Moonlight Sonata by Beethoven broken, removed
+Item 19.0ft Cable damaged, price reduced to 37.623236618563105
+Item Record Player damaged, price reduced to 59.52434916665061
+Item Electric Bass broken, removed
+Item Bandana damaged, price reduced to 27.04603245596024
+Velma is leaving the store
+closing register: $1469.9254915160388
+
+
+
+====== Day 5======
+Velma has arrived at store on day 5
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+There is $1469.9254915160388 in the cash register
+out of stock of SHIRT
+Velma ordered 3 SHIRT
+Velma sold a good Electric Mandolin to Customer 0 at 20.20741758964863 after a 10% discount
+Velma sold a excellent Guitar String to Customer 1 at 99.70542779341743
+Velma sold a very good Paper Score - Moonlight Sonata by Beethoven to Customer 2 at 72.16735086685213
+Velma sold a poor Record Player to Customer 3 at 18.863918063747356
+Velma sold a very good Practice Amp to Customer 4 at 80.36593230873568
+Velma sold a very good CD Player to Customer 5 at 34.08731397619468 after a 10% discount
+Velma did not buy a good Vinyl - Rough Jazz by Music Guys from Customer 6
+Velma bought a good Harmonica (Key of C) from Customer 7 at 22.303435357119493
+Velma is cleaning the store
+Velma is leaving the store
+closing register: $1628.888374803589
+
+
+
+====== Day 6======
+Velma has arrived at store on day 6
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+Unpacked Vinyl - Rough Jazz by Music Guys
+There is $1628.888374803589 in the cash register
+out of stock of PAPERSCORE
+Velma ordered 3 PAPERSCORE
+out of stock of CDPLAYER
+Velma ordered 3 CDPLAYER
+out of stock of MANDOLIN
+Velma ordered 3 MANDOLIN
+out of stock of SHIRT
+Velma ordered 3 SHIRT
+out of stock of PRACTICEAMP
+Velma ordered 3 PRACTICEAMP
+out of stock of INSTRUMENTSTRING
+Velma ordered 3 INSTRUMENTSTRING
+Velma sold a poor Electric Guitar to Customer 0 at 11.04655899595844
+Velma sold a poor Harmonica (Key of C) to Customer 1 at 2.6886614180996853
+Customer 2 wanted a MANDOLIN, but there were none in inventory, so they left.
+Velma sold a poor Electric Bass to Customer 3 at 7.621165221527229
+Customer 4 wanted a INSTRUMENTSTRING, but there were none in inventory, so they left.
+Velma bought a fair Electric Bass from Customer 5 at 19.386770860611485 after a 10% increase
+Velma bought a poor Vinyl - Rough Jazz by Music Guys from Customer 6 at 11.277536231580932 after a 10% increase
+Velma is cleaning the store
+Item MP3 Player damaged, price reduced to 31.745735697192515
+Item Vinyl - Rough Jazz by Music Guys damaged, price reduced to 44.066764157307574
+Velma is leaving the store
+closing register: $963.1335316938506
+
+
+
+====== Day 7======
+Store is not open on Sundays
+
+
+
+====== Day 8======
+Shaggy has arrived at store on day 8
+Unpacked Medium Shirt
+Unpacked Medium Shirt
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked CD Player
+Unpacked Medium Shirt
+Unpacked Practice Amp
+Unpacked Medium Shirt
+Unpacked Medium Shirt
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked CD Player
+Unpacked Medium Shirt
+Unpacked Practice Amp
+There is $963.1335316938506 in the cash register
+out of stock of BASS
+Shaggy ordered 3 BASS
+out of stock of MANDOLIN
+Shaggy ordered 3 MANDOLIN
+out of stock of HARMONICA
+Shaggy ordered 3 HARMONICA
+out of stock of INSTRUMENTSTRING
+Shaggy ordered 3 INSTRUMENTSTRING
+Shaggy sold a excellent Vinyl - Rough Jazz by Music Guys to Customer 0 at 85.40417780328943
+Shaggy sold a good Record Player to Customer 1 at 59.52434916665061
+Shaggy sold a poor Paper Score - Moonlight Sonata by Beethoven to Customer 2 at 20.597942057368158
+Shaggy did not sell a Medium Hat to Customer 3
+Shaggy bought a very good Medium Hat from Customer 4 at 36.28616385276567
+Shaggy bought a very good Electric Mandolin from Customer 5 at 38.31856174428028
+Shaggy is cleaning the store
+Item Vinyl - Rough Jazz by Music Guys damaged, price reduced to 68.32334224263154
+Item Vinyl - Rough Jazz by Music Guys damaged, price reduced to 35.50148689490373
+Item Electric Guitar broken, removed
+Item Vinyl - Rough Jazz by Music Guys damaged, price reduced to 35.25341132584606
+Item Vinyl - Rough Jazz by Music Guys damaged, price reduced to 42.38369299751966
+Item Medium Shirt broken, removed
+Item Medium Shirt broken, removed
+Shaggy is leaving the store
+closing register: $642.8288722439194
+
+
+
+====== Day 9======
+Shaggy has arrived at store on day 9
+Unpacked Electric Mandolin
+Unpacked Electric Mandolin
+Unpacked Electric Bass
+Unpacked Electric Mandolin
+Unpacked Harmonica (Key of C)
+Unpacked Guitar String
+Unpacked Electric Mandolin
+Unpacked Electric Mandolin
+Unpacked Electric Bass
+Unpacked Electric Mandolin
+Unpacked Harmonica (Key of C)
+Unpacked Guitar String
+There is $642.8288722439194 in the cash register
+out of stock of RECORDPLAYER
+Shaggy ordered 3 RECORDPLAYER
+out of stock of GUITAR
+Shaggy ordered 3 GUITAR
+Shaggy sold a excellent Harmonica (Key of C) to Customer 0 at 91.17854374044033
+Shaggy sold a excellent CD - Smooth Jazz by Music Guys to Customer 1 at 42.07057196944519 after a 10% discount
+Shaggy sold a very good Vinyl - Rough Jazz by Music Guys to Customer 2 at 68.32334224263154
+Shaggy sold a fair CD Player to Customer 3 at 28.42853649006689
+Shaggy sold a excellent Harmonica (Key of C) to Customer 4 at 41.03034468319815 after a 10% discount
+Shaggy sold a fair Guitar String to Customer 5 at 36.528611409333
+Shaggy bought a poor Harmonica (Key of C) from Customer 6 at 9.664850888770872 after a 10% increase
+Shaggy is cleaning the store
+Item 19.0ft Cable broken, removed
+Item Medium Hat damaged, price reduced to 42.60099677210843
+Item Medium Hat broken, removed
+Item Bandana broken, removed
+Item Vinyl - Rough Jazz by Music Guys damaged, price reduced to 64.7585357715016
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item Vinyl - Rough Jazz by Music Guys damaged, price reduced to 51.80682861720128
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item Paper Score - Moonlight Sonata by Beethoven broken, removed
+Item Practice Amp broken, removed
+Item Electric Mandolin damaged, price reduced to 56.56878849597173
+Item Electric Mandolin damaged, price reduced to 45.25503079677739
+Item Electric Mandolin broken, removed
+Shaggy is leaving the store
+closing register: $527.6126575992618
+
+
+
+====== Day 10======
+Shaggy has arrived at store on day 10
+Unpacked Electric Bass
+Unpacked Electric Mandolin
+Unpacked Guitar String
+Unpacked Electric Mandolin
+Unpacked Guitar String
+Unpacked Electric Bass
+Unpacked Electric Mandolin
+Unpacked Guitar String
+Unpacked Electric Mandolin
+Unpacked Guitar String
+There is $527.6126575992618 in the cash register
+out of stock of PAPERSCORE
+Shaggy ordered 3 PAPERSCORE
+out of stock of CD
+Shaggy ordered 3 CD
+out of stock of RECORDPLAYER
+Shaggy ordered 3 RECORDPLAYER
+out of stock of GUITAR
+Shaggy ordered 3 GUITAR
+out of stock of HARMONICA
+Shaggy ordered 3 HARMONICA
+out of stock of BANDANA
+Shaggy ordered 3 BANDANA
+out of stock of PRACTICEAMP
+Shaggy ordered 3 PRACTICEAMP
+Customer 0 wanted a CD, but there were none in inventory, so they left.
+Shaggy sold a excellent Medium Shirt to Customer 1 at 93.3252900642037
+Shaggy sold a very good Standard Flute to Customer 2 at 45.74030333148975 after a 10% discount
+Shaggy did not sell a Guitar String to Customer 3
+Couldn't afford to buy Bandana from Customer 4
+Couldn't afford to buy Vinyl - Rough Jazz by Music Guys from Customer 5
+Shaggy is cleaning the store
+Item 3.0ft Cable damaged, price reduced to 52.3610542796001
+Item 2.0ft Cable broken, removed
+Item Vinyl - Rough Jazz by Music Guys damaged, price reduced to 41.44546289376103
+Item Medium Shirt damaged, price reduced to 74.66023205136297
+Item CD Player damaged, price reduced to 22.742829192053513
+Item Electric Bass damaged, price reduced to 25.708258662316453
+Item Electric Mandolin broken, removed
+Shaggy is leaving the store
+closing register: $-491.44759153459415
+
+
+
+====== Day 11======
+Velma has arrived at store on day 11
+Unpacked Electric Bass
+Unpacked Harmonica (Key of C)
+Unpacked Electric Bass
+Unpacked Harmonica (Key of C)
+Unpacked Record Player
+Unpacked Record Player
+Unpacked Electric Guitar
+Unpacked Harmonica (Key of C)
+Unpacked Guitar String
+Unpacked Harmonica (Key of C)
+Unpacked Guitar String
+Unpacked Record Player
+Unpacked Electric Guitar
+Unpacked CD - Smooth Jazz by Music Guys
+Unpacked CD - Smooth Jazz by Music Guys
+Unpacked Record Player
+Unpacked Harmonica (Key of C)
+Unpacked Bandana
+Unpacked Electric Bass
+Unpacked Harmonica (Key of C)
+Unpacked Electric Bass
+Unpacked Harmonica (Key of C)
+Unpacked Record Player
+Unpacked Record Player
+Unpacked Electric Guitar
+Unpacked Harmonica (Key of C)
+Unpacked Guitar String
+Unpacked Harmonica (Key of C)
+Unpacked Guitar String
+Unpacked Record Player
+Unpacked Electric Guitar
+Unpacked CD - Smooth Jazz by Music Guys
+Unpacked CD - Smooth Jazz by Music Guys
+Unpacked Record Player
+Unpacked Harmonica (Key of C)
+Unpacked Bandana
+There is $-491.44759153459415 in the cash register
+Velma went to the bank and withdrew $1000
+out of stock of PAPERSCORE
+Velma ordered 3 PAPERSCORE
+out of stock of FLUTE
+Velma ordered 3 FLUTE
+out of stock of PRACTICEAMP
+Velma ordered 3 PRACTICEAMP
+Customer 0 wanted a PAPERSCORE, but there were none in inventory, so they left.
+Velma sold a fair Electric Mandolin to Customer 1 at 45.25503079677739
+Customer 2 wanted a FLUTE, but there were none in inventory, so they left.
+Velma sold a fair Vinyl - Rough Jazz by Music Guys to Customer 3 at 19.969586378383344 after a 10% discount
+Velma sold a good 3.0ft Cable to Customer 4 at 29.453093032275053 after a 10% discount
+Velma sold a fair Guitar String to Customer 5 at 36.528611409333
+Couldn't afford to buy Electric Bass from Customer 6
+Velma is cleaning the store
+Item MP3 Player broken, removed
+Item Vinyl - Rough Jazz by Music Guys damaged, price reduced to 33.90695439801573
+Item Record Player broken, removed
+Item Record Player broken, removed
+Velma is leaving the store
+closing register: $-479.67678882795786
+
+
+
+====== Day 12======
+Velma has arrived at store on day 12
+Unpacked Electric Guitar
+Unpacked Electric Guitar
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Electric Guitar
+Unpacked Harmonica (Key of C)
+Unpacked Practice Amp
+Unpacked Practice Amp
+Unpacked Electric Guitar
+Unpacked Electric Guitar
+Unpacked Electric Guitar
+Unpacked Harmonica (Key of C)
+Unpacked Practice Amp
+Unpacked Practice Amp
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Standard Flute
+Unpacked Practice Amp
+Unpacked Electric Guitar
+Unpacked Electric Guitar
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Electric Guitar
+Unpacked Harmonica (Key of C)
+Unpacked Practice Amp
+Unpacked Practice Amp
+Unpacked Electric Guitar
+Unpacked Electric Guitar
+Unpacked Electric Guitar
+Unpacked Harmonica (Key of C)
+Unpacked Practice Amp
+Unpacked Practice Amp
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Standard Flute
+Unpacked Practice Amp
+There is $-479.67678882795786 in the cash register
+Velma went to the bank and withdrew $1000
+out of stock of MP3
+Velma ordered 3 MP3
+out of stock of CABLE
+Velma ordered 3 CABLE
+Velma sold a very good Medium Shirt to Customer 0 at 74.66023205136297
+Velma sold a poor Electric Bass to Customer 1 at 25.708258662316453
+Velma sold a poor CD Player to Customer 2 at 12.7928414205301 after a 10% discount
+Velma sold a very good Vinyl - Rough Jazz by Music Guys to Customer 3 at 68.32334224263154
+Velma sold a very good CD - Smooth Jazz by Music Guys to Customer 4 at 36.030840937461086 after a 10% discount
+Velma sold a poor Electric Bass to Customer 5 at 25.708258662316453
+Customer 6 wanted a CABLE, but there were none in inventory, so they left.
+Couldn't afford to buy Paper Score - Moonlight Sonata by Beethoven from Customer 7
+Velma is cleaning the store
+Item Guitar String damaged, price reduced to 53.3254488048826
+Item Guitar String damaged, price reduced to 42.660359043906084
+Item Record Player damaged, price reduced to 43.93919861560462
+Item Electric Guitar damaged, price reduced to 55.68676131763971
+Item Practice Amp damaged, price reduced to 80.6152104904168
+Item Electric Guitar damaged, price reduced to 44.54940905411177
+Velma is leaving the store
+closing register: $-238.85238760123417
+
+
+
+====== Day 13======
+Velma has arrived at store on day 13
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Record Player
+Unpacked Harmonica (Key of C)
+Unpacked Bandana
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Record Player
+Unpacked Harmonica (Key of C)
+Unpacked Bandana
+Unpacked Standard Flute
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Record Player
+Unpacked Harmonica (Key of C)
+Unpacked Bandana
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Record Player
+Unpacked Harmonica (Key of C)
+Unpacked Bandana
+Unpacked Standard Flute
+Unpacked MP3 Player
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Record Player
+Unpacked Harmonica (Key of C)
+Unpacked Bandana
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Record Player
+Unpacked Harmonica (Key of C)
+Unpacked Bandana
+Unpacked Standard Flute
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Record Player
+Unpacked Harmonica (Key of C)
+Unpacked Bandana
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Record Player
+Unpacked Harmonica (Key of C)
+Unpacked Bandana
+Unpacked Standard Flute
+Unpacked MP3 Player
+There is $-238.85238760123417 in the cash register
+Velma went to the bank and withdrew $1000
+out of stock of CDPLAYER
+Velma ordered 3 CDPLAYER
+out of stock of CABLE
+Velma ordered 3 CABLE
+Velma sold a fair Guitar String to Customer 0 at 29.99556495274646 after a 10% discount
+Velma did not sell a MP3 Player to Customer 1
+Velma sold a fair Record Player to Customer 2 at 43.93919861560462
+Velma sold a poor Paper Score - Moonlight Sonata by Beethoven to Customer 3 at 9.408768349502626
+Velma sold a fair Guitar String to Customer 4 at 29.99556495274646 after a 10% discount
+Velma sold a poor Harmonica (Key of C) to Customer 5 at 18.612474091442202
+Velma bought a very good Medium Shirt from Customer 6 at 35.293983374121574
+Velma bought a very good 6.0ft Cable from Customer 7 at 38.426991866339144
+Velma bought a excellent 8.0ft Cable from Customer 8 at 51.73209547098658 after a 10% increase
+Velma is cleaning the store
+Item Guitar String damaged, price reduced to 34.128287235124866
+Item Practice Amp damaged, price reduced to 19.395300337679803
+Item Record Player damaged, price reduced to 51.09766428766015
+Velma is leaving the store
+closing register: $382.9649904936911
+
+
+
+====== Day 14======
+Store is not open on Sundays
+
+
+
+====== Day 15======
+Shaggy has arrived at store on day 15
+Unpacked MP3 Player
+Unpacked 18.0ft Cable
+Unpacked MP3 Player
+Unpacked 18.0ft Cable
+Unpacked CD Player
+Unpacked 7.0ft Cable
+Unpacked MP3 Player
+Unpacked 18.0ft Cable
+Unpacked MP3 Player
+Unpacked 18.0ft Cable
+Unpacked CD Player
+Unpacked 7.0ft Cable
+There is $382.9649904936911 in the cash register
+Shaggy sold a poor Harmonica (Key of C) to Customer 0 at 8.375613341148991 after a 10% discount
+Shaggy sold a very good Medium Shirt to Customer 1 at 74.66023205136297
+Shaggy sold a good Standard Flute to Customer 2 at 56.43717343434981
+Shaggy sold a good CD Player to Customer 3 at 59.02809443763972
+Shaggy sold a fair Medium Hat to Customer 4 at 23.96306068431099 after a 10% discount
+Shaggy bought a poor Electric Bass from Customer 5 at 8.912844830224886 after a 10% increase
+Shaggy bought a fair Guitar String from Customer 6 at 14.841190546812037 after a 10% increase
+Shaggy did not buy a excellent Guitar String from Customer 7
+Shaggy is cleaning the store
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item Electric Mandolin damaged, price reduced to 36.20402463742192
+Item Electric Bass damaged, price reduced to 40.68543765878891
+Item Electric Bass damaged, price reduced to 29.562365409526336
+Item Electric Bass broken, removed
+Item Electric Guitar damaged, price reduced to 75.84342068047272
+Item Electric Guitar damaged, price reduced to 60.67473654437818
+Item CD - Smooth Jazz by Music Guys broken, removed
+Item Electric Bass broken, removed
+Item Electric Bass broken, removed
+Item CD - Smooth Jazz by Music Guys broken, removed
+Item Harmonica (Key of C) damaged, price reduced to 18.795741555364366
+Item Practice Amp damaged, price reduced to 27.58007138187934
+Item Electric Guitar broken, removed
+Item Electric Guitar broken, removed
+Item Practice Amp broken, removed
+Item Electric Guitar damaged, price reduced to 35.639527243289415
+Item Practice Amp broken, removed
+Item Electric Guitar broken, removed
+Item Electric Guitar broken, removed
+Item Practice Amp broken, removed
+Item Practice Amp broken, removed
+Item Record Player damaged, price reduced to 40.87813143012812
+Item Standard Flute damaged, price reduced to 30.244400150293007
+Item MP3 Player broken, removed
+Item Paper Score - Moonlight Sonata by Beethoven broken, removed
+Item Bandana damaged, price reduced to 59.38346123612342
+Item Paper Score - Moonlight Sonata by Beethoven broken, removed
+Item MP3 Player broken, removed
+Item 18.0ft Cable broken, removed
+Shaggy is leaving the store
+closing register: $508.37760488886425
+
+
+
+====== Day 16======
+Shaggy has arrived at store on day 16
+Unpacked 1.0ft Cable
+Unpacked 1.0ft Cable
+There is $508.37760488886425 in the cash register
+out of stock of HAT
+Shaggy ordered 3 HAT
+Shaggy did not sell a Electric Bass to Customer 0
+Customer 1 wanted a HAT, but there were none in inventory, so they left.
+Customer 2 wanted a HAT, but there were none in inventory, so they left.
+Shaggy sold a very good Medium Shirt to Customer 3 at 74.66023205136297
+Shaggy sold a poor Record Player to Customer 4 at 17.725215711763394
+Shaggy sold a excellent Bandana to Customer 5 at 85.43176755271901
+Customer 6 wanted a HAT, but there were none in inventory, so they left.
+Shaggy bought a very good Paper Score - Moonlight Sonata by Beethoven from Customer 7 at 43.19132895928268 after a 10% increase
+Shaggy bought a poor Harmonica (Key of C) from Customer 8 at 8.47940807551755 after a 10% increase
+Shaggy is cleaning the store
+Item Electric Mandolin broken, removed
+Item Guitar String broken, removed
+Item Guitar String broken, removed
+Item Electric Guitar damaged, price reduced to 48.539789235502546
+Item Guitar String damaged, price reduced to 72.9225913560383
+Item Harmonica (Key of C) damaged, price reduced to 57.36755871287278
+Item Harmonica (Key of C) damaged, price reduced to 45.89404697029823
+Item Standard Flute damaged, price reduced to 45.14973874747985
+Item Record Player damaged, price reduced to 32.702505144102496
+Item Standard Flute broken, removed
+Item Record Player broken, removed
+Item Standard Flute broken, removed
+Item Record Player broken, removed
+Item Record Player broken, removed
+Item Bandana damaged, price reduced to 47.50676898889874
+Item Standard Flute broken, removed
+Item 1.0ft Cable damaged, price reduced to 76.84077914267041
+Shaggy is leaving the store
+closing register: $582.2232196643223
+
+
+
+====== Day 17======
+Shaggy has arrived at store on day 17
+Unpacked Medium Hat
+Unpacked Medium Hat
+There is $582.2232196643223 in the cash register
+out of stock of MANDOLIN
+Shaggy ordered 3 MANDOLIN
+out of stock of SHIRT
+Shaggy ordered 3 SHIRT
+Shaggy sold a fair Electric Guitar to Customer 0 at 48.539789235502546
+Shaggy sold a good CD Player to Customer 1 at 59.02809443763972
+Shaggy did not sell a Practice Amp to Customer 2
+Customer 3 wanted a MANDOLIN, but there were none in inventory, so they left.
+Shaggy bought a very good Record Player from Customer 4 at 32.31670503127464
+Shaggy is cleaning the store
+Item Electric Bass damaged, price reduced to 32.548350127031135
+Item Harmonica (Key of C) broken, removed
+Item Electric Guitar damaged, price reduced to 38.83183138840204
+Item Harmonica (Key of C) broken, removed
+Item Electric Guitar broken, removed
+Item Electric Guitar broken, removed
+Item Electric Guitar damaged, price reduced to 58.21726866971761
+Item Harmonica (Key of C) damaged, price reduced to 36.715237576238586
+Item Electric Guitar damaged, price reduced to 46.573814935774095
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 45.12947828391546
+Item Electric Guitar broken, removed
+Item Electric Guitar broken, removed
+Item Practice Amp damaged, price reduced to 64.49216839233344
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 36.10358262713237
+Item Bandana damaged, price reduced to 38.00541519111899
+Item 7.0ft Cable broken, removed
+Item 7.0ft Cable broken, removed
+Item Medium Hat damaged, price reduced to 26.78650856097126
+Shaggy is leaving the store
+closing register: $382.16381682494176
+
+
+
+====== Day 18======
+Velma has arrived at store on day 18
+Unpacked Electric Mandolin
+Unpacked Medium Shirt
+Unpacked Medium Shirt
+Unpacked Electric Mandolin
+Unpacked Medium Shirt
+Unpacked Medium Shirt
+There is $382.16381682494176 in the cash register
+out of stock of CDPLAYER
+Velma ordered 3 CDPLAYER
+Velma sold a excellent Electric Mandolin to Customer 0 at 41.84134162374862 after a 10% discount
+Velma sold a excellent Electric Mandolin to Customer 1 at 41.84134162374862 after a 10% discount
+Customer 2 wanted a MANDOLIN, but there were none in inventory, so they left.
+Velma sold a very good Guitar String to Customer 3 at 72.9225913560383
+Velma sold a very good 1.0ft Cable to Customer 4 at 43.222938267752106 after a 10% discount
+Velma sold a fair Harmonica (Key of C) to Customer 5 at 15.767647559950488 after a 10% discount
+Velma sold a good Practice Amp to Customer 6 at 45.34605590085945 after a 10% discount
+Velma did not sell a Bandana to Customer 7
+Velma bought a very good Harmonica (Key of C) from Customer 8 at 42.5857738309747 after a 10% increase
+Velma is cleaning the store
+Item MP3 Player broken, removed
+Item MP3 Player broken, removed
+Item MP3 Player broken, removed
+Item MP3 Player broken, removed
+Item Medium Hat broken, removed
+Velma is leaving the store
+closing register: $370.0307615017343
+
+
+
+====== Day 19======
+Velma has arrived at store on day 19
+Unpacked Medium Hat
+Unpacked Medium Hat
+Unpacked Electric Mandolin
+Unpacked Medium Hat
+Unpacked Medium Hat
+Unpacked Electric Mandolin
+Unpacked CD Player
+Unpacked Medium Hat
+Unpacked Medium Hat
+Unpacked Electric Mandolin
+Unpacked Medium Hat
+Unpacked Medium Hat
+Unpacked Electric Mandolin
+Unpacked CD Player
+There is $370.0307615017343 in the cash register
+out of stock of MP3
+Velma ordered 3 MP3
+Velma sold a very good Guitar String to Customer 0 at 41.018957637771535 after a 10% discount
+Velma sold a poor Paper Score - Moonlight Sonata by Beethoven to Customer 1 at 36.10358262713237
+Velma sold a excellent Electric Mandolin to Customer 2 at 41.727294114872784 after a 10% discount
+Velma sold a very good 1.0ft Cable to Customer 3 at 43.222938267752106 after a 10% discount
+Velma sold a excellent Electric Mandolin to Customer 4 at 92.72732025527284
+Customer 5 wanted a CABLE, but there were none in inventory, so they left.
+Velma did not sell a Guitar String to Customer 6
+Velma bought a excellent Paper Score - Moonlight Sonata by Beethoven from Customer 7 at 44.4093081051295
+Velma bought a fair Electric Guitar from Customer 8 at 15.7799559935425
+Velma is cleaning the store
+Item Harmonica (Key of C) broken, removed
+Item Harmonica (Key of C) broken, removed
+Item Harmonica (Key of C) damaged, price reduced to 65.4848806385886
+Velma is leaving the store
+closing register: $357.7734760126851
+
+
+
+====== Day 20======
+Velma has arrived at store on day 20
+Unpacked Electric Mandolin
+Unpacked Electric Mandolin
+Unpacked Electric Mandolin
+Unpacked Electric Mandolin
+Unpacked Electric Mandolin
+Unpacked Electric Mandolin
+Unpacked Electric Mandolin
+Unpacked Electric Mandolin
+There is $357.7734760126851 in the cash register
+out of stock of MP3
+Velma ordered 3 MP3
+out of stock of CABLE
+Velma ordered 3 CABLE
+Velma sold a poor Electric Guitar to Customer 0 at 38.83183138840204
+Customer 1 wanted a MP3, but there were none in inventory, so they left.
+Velma sold a excellent Bandana to Customer 2 at 38.444295398723554 after a 10% discount
+Velma sold a fair Harmonica (Key of C) to Customer 3 at 15.767647559950488 after a 10% discount
+Velma sold a poor Record Player to Customer 4 at 16.30881083804239
+Velma sold a excellent Electric Mandolin to Customer 5 at 41.727294114872784 after a 10% discount
+Velma bought a fair Electric Guitar from Customer 6 at 14.57927840637982
+Velma bought a very good Harmonica (Key of C) from Customer 7 at 41.374345210954736 after a 10% increase
+Velma bought a poor Electric Guitar from Customer 8 at 8.017942104915356
+Velma is cleaning the store
+Velma is leaving the store
+closing register: $109.50052319750554
+
+
+
+====== Day 21======
+Store is not open on Sundays
+
+
+
+====== Day 22======
+Shaggy has arrived at store on day 22
+Unpacked MP3 Player
+Unpacked MP3 Player
+Unpacked MP3 Player
+Unpacked MP3 Player
+Unpacked MP3 Player
+Unpacked MP3 Player
+There is $109.50052319750554 in the cash register
+out of stock of CABLE
+Shaggy ordered 3 CABLE
+Shaggy sold a poor Paper Score - Moonlight Sonata by Beethoven to Customer 0 at 4.233945757276182 after a 10% discount
+Shaggy sold a good Medium Shirt to Customer 1 at 49.56354774423524
+Shaggy sold a good Practice Amp to Customer 2 at 45.34605590085945 after a 10% discount
+Shaggy sold a excellent Medium Shirt to Customer 3 at 38.3429688981846 after a 10% discount
+Customer 4 wanted a CABLE, but there were none in inventory, so they left.
+Shaggy sold a poor Paper Score - Moonlight Sonata by Beethoven to Customer 5 at 36.10358262713237
+Shaggy sold a fair Record Player to Customer 6 at 43.93919861560462
+Shaggy bought a good Practice Amp from Customer 7 at 21.949954043706327
+Shaggy is cleaning the store
+Item Electric Bass broken, removed
+Item Guitar String damaged, price reduced to 58.33807308483064
+Item Practice Amp damaged, price reduced to 51.59373471386675
+Item Standard Flute damaged, price reduced to 36.119790997983884
+Item Harmonica (Key of C) damaged, price reduced to 52.38790451087089
+Item Medium Shirt damaged, price reduced to 39.65083819538819
+Item Medium Shirt damaged, price reduced to 68.16527804121708
+Item Medium Hat damaged, price reduced to 20.34138431100446
+Item Electric Mandolin broken, removed
+Item Electric Mandolin broken, removed
+Item Electric Mandolin broken, removed
+Item Electric Mandolin broken, removed
+Item Electric Mandolin broken, removed
+Item Electric Mandolin broken, removed
+Item Electric Mandolin broken, removed
+Item Electric Mandolin broken, removed
+Shaggy is leaving the store
+closing register: $49.72599395906295
+
+
+
+====== Day 23======
+Shaggy has arrived at store on day 23
+Unpacked MP3 Player
+Unpacked 9.0ft Cable
+Unpacked 2.0ft Cable
+Unpacked 17.0ft Cable
+Unpacked MP3 Player
+Unpacked 9.0ft Cable
+Unpacked 2.0ft Cable
+Unpacked 17.0ft Cable
+There is $49.72599395906295 in the cash register
+Shaggy went to the bank and withdrew $1000
+out of stock of PAPERSCORE
+Shaggy ordered 3 PAPERSCORE
+out of stock of BASS
+Shaggy ordered 3 BASS
+Shaggy sold a fair Practice Amp to Customer 0 at 51.59373471386675
+Shaggy did not sell a 9.0ft Cable to Customer 1
+Shaggy sold a fair Medium Shirt to Customer 2 at 39.65083819538819
+Shaggy sold a poor Bandana to Customer 3 at 33.40319694531943 after a 10% discount
+Shaggy bought a excellent Medium Hat from Customer 4 at 53.06761443325236 after a 10% increase
+Shaggy is cleaning the store
+Item Harmonica (Key of C) damaged, price reduced to 28.031373439911977
+Item Guitar String damaged, price reduced to 46.67045846786451
+Item Electric Guitar broken, removed
+Item CD - Smooth Jazz by Music Guys damaged, price reduced to 64.05482833326415
+Item Bandana broken, removed
+Item Bandana broken, removed
+Item Bandana broken, removed
+Item Bandana broken, removed
+Item Bandana broken, removed
+Item Bandana broken, removed
+Item Medium Hat broken, removed
+Item Medium Hat broken, removed
+Item Medium Hat broken, removed
+Item Medium Hat broken, removed
+Item Medium Hat broken, removed
+Item Medium Hat broken, removed
+Item Medium Hat broken, removed
+Item Medium Hat broken, removed
+Item Electric Mandolin damaged, price reduced to 74.18185620421828
+Item MP3 Player damaged, price reduced to 52.860277803762294
+Item MP3 Player damaged, price reduced to 42.28822224300984
+Item MP3 Player damaged, price reduced to 80.11542947957146
+Item 2.0ft Cable damaged, price reduced to 63.97954794169991
+Item MP3 Player damaged, price reduced to 33.203248254304235
+Shaggy is leaving the store
+closing register: $880.682102646012
+
+
+
+====== Day 24======
+Shaggy has arrived at store on day 24
+Unpacked 6.0ft Cable
+Unpacked Electric Bass
+Unpacked 6.0ft Cable
+Unpacked Electric Bass
+There is $880.682102646012 in the cash register
+out of stock of PAPERSCORE
+Shaggy ordered 3 PAPERSCORE
+out of stock of HAT
+Shaggy ordered 3 HAT
+out of stock of BANDANA
+Shaggy ordered 3 BANDANA
+Customer 0 wanted a HAT, but there were none in inventory, so they left.
+Shaggy did not sell a Practice Amp to Customer 1
+Shaggy sold a fair Practice Amp to Customer 2 at 45.34605590085945 after a 10% discount
+Customer 3 wanted a PAPERSCORE, but there were none in inventory, so they left.
+Shaggy sold a very good Electric Mandolin to Customer 4 at 74.18185620421828
+Customer 5 wanted a PAPERSCORE, but there were none in inventory, so they left.
+Shaggy sold a fair Guitar String to Customer 6 at 41.018957637771535 after a 10% discount
+Shaggy bought a fair Bandana from Customer 7 at 19.694733004032898 after a 10% increase
+Shaggy bought a very good Medium Hat from Customer 8 at 31.316456781972555
+Shaggy is cleaning the store
+Item Vinyl - Rough Jazz by Music Guys damaged, price reduced to 28.401189515922983
+Item Harmonica (Key of C) damaged, price reduced to 41.910323608696714
+Item Harmonica (Key of C) broken, removed
+Item Harmonica (Key of C) broken, removed
+Item Harmonica (Key of C) broken, removed
+Item MP3 Player damaged, price reduced to 64.09234358365717
+Item MP3 Player damaged, price reduced to 51.27387486692574
+Item MP3 Player broken, removed
+Item MP3 Player broken, removed
+Item 9.0ft Cable damaged, price reduced to 74.87630986382196
+Shaggy is leaving the store
+closing register: $516.5084503715926
+
+
+
+====== Day 25======
+Velma has arrived at store on day 25
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Medium Hat
+Unpacked Bandana
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Medium Hat
+Unpacked Bandana
+There is $516.5084503715926 in the cash register
+out of stock of MANDOLIN
+Velma ordered 3 MANDOLIN
+out of stock of PRACTICEAMP
+Velma ordered 3 PRACTICEAMP
+Velma sold a fair Guitar String to Customer 0 at 46.67045846786451
+Velma sold a poor Harmonica (Key of C) to Customer 1 at 28.031373439911977
+Velma sold a fair Electric Guitar to Customer 2 at 46.573814935774095
+Customer 3 wanted a INSTRUMENTSTRING, but there were none in inventory, so they left.
+Velma sold a very good CD Player to Customer 4 at 33.07741415118352 after a 10% discount
+Couldn't afford to buy Electric Guitar from Customer 5
+Velma is cleaning the store
+Item Electric Guitar damaged, price reduced to 37.25905194861928
+Velma is leaving the store
+closing register: $-158.52573065178424
+
+
+
+====== Day 26======
+Velma has arrived at store on day 26
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Electric Bass
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Electric Bass
+Unpacked Medium Hat
+Unpacked Bandana
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Electric Bass
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Electric Bass
+Unpacked Medium Hat
+Unpacked Bandana
+Unpacked Electric Mandolin
+Unpacked Practice Amp
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Electric Bass
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Electric Bass
+Unpacked Medium Hat
+Unpacked Bandana
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Electric Bass
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Electric Bass
+Unpacked Medium Hat
+Unpacked Bandana
+Unpacked Electric Mandolin
+Unpacked Practice Amp
+There is $-158.52573065178424 in the cash register
+Velma went to the bank and withdrew $1000
+out of stock of INSTRUMENTSTRING
+Velma ordered 3 INSTRUMENTSTRING
+Customer 0 wanted a INSTRUMENTSTRING, but there were none in inventory, so they left.
+Velma sold a poor Record Player to Customer 1 at 7.976347070293527 after a 10% discount
+Velma sold a very good Medium Shirt to Customer 2 at 38.3429688981846 after a 10% discount
+Velma sold a good CD - Smooth Jazz by Music Guys to Customer 3 at 36.030840937461086 after a 10% discount
+Velma did not sell a Vinyl - Rough Jazz by Music Guys to Customer 4
+Velma bought a poor Record Player from Customer 5 at 8.414647612361232 after a 10% increase
+Velma is cleaning the store
+Item Medium Hat damaged, price reduced to 72.6930868630688
+Item Electric Mandolin broken, removed
+Item Practice Amp damaged, price reduced to 45.94009235484754
+Item Electric Mandolin broken, removed
+Velma is leaving the store
+closing register: $348.9025063121656
+
+
+
+====== Day 27======
+Velma has arrived at store on day 27
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Medium Hat
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Electric Mandolin
+Unpacked Practice Amp
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Medium Hat
+Unpacked Electric Mandolin
+Unpacked Practice Amp
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Medium Hat
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Electric Mandolin
+Unpacked Practice Amp
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Paper Score - Moonlight Sonata by Beethoven
+Unpacked Medium Hat
+Unpacked Electric Mandolin
+Unpacked Practice Amp
+There is $348.9025063121656 in the cash register
+out of stock of CD
+Velma ordered 3 CD
+out of stock of SHIRT
+Velma ordered 3 SHIRT
+out of stock of INSTRUMENTSTRING
+Velma ordered 3 INSTRUMENTSTRING
+Velma sold a very good Paper Score - Moonlight Sonata by Beethoven to Customer 0 at 70.7528154816038
+Velma sold a poor Bandana to Customer 1 at 3.871178321803907 after a 10% discount
+Velma did not sell a Practice Amp to Customer 2
+Velma sold a very good CD Player to Customer 3 at 33.07741415118352 after a 10% discount
+Velma sold a fair Practice Amp to Customer 4 at 45.94009235484754
+Velma sold a fair Practice Amp to Customer 5 at 45.94009235484754
+Velma sold a poor Record Player to Customer 6 at 7.338964877119076 after a 10% discount
+Velma sold a poor Electric Mandolin to Customer 7 at 5.243022155116416
+Velma bought a poor Paper Score - Moonlight Sonata by Beethoven from Customer 8 at 5.312977411508825 after a 10% increase
+Velma is cleaning the store
+Item Harmonica (Key of C) broken, removed
+Item MP3 Player damaged, price reduced to 41.01909989354059
+Item 6.0ft Cable damaged, price reduced to 78.83275456767201
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 48.38540798246038
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 48.83418002643539
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 38.708326385968306
+Velma is leaving the store
+closing register: $56.549619041299344
+
+
+
+====== Day 28======
+Store is not open on Sundays
+
+
+
+====== Day 29======
+Shaggy has arrived at store on day 29
+Unpacked Guitar String
+Unpacked Guitar String
+Unpacked CD - Smooth Jazz by Music Guys
+Unpacked Guitar String
+Unpacked Guitar String
+Unpacked Guitar String
+Unpacked Guitar String
+Unpacked CD - Smooth Jazz by Music Guys
+Unpacked Guitar String
+Unpacked Guitar String
+There is $56.549619041299344 in the cash register
+Shaggy went to the bank and withdrew $1000
+out of stock of CDPLAYER
+Shaggy ordered 3 CDPLAYER
+out of stock of RECORDPLAYER
+Shaggy ordered 3 RECORDPLAYER
+out of stock of SHIRT
+Shaggy ordered 3 SHIRT
+Shaggy sold a excellent Guitar String to Customer 0 at 94.6657547311087
+Shaggy sold a poor Electric Guitar to Customer 1 at 32.74721362671616 after a 10% discount
+Shaggy sold a excellent Guitar String to Customer 2 at 42.59958962899892 after a 10% discount
+Shaggy sold a poor Electric Guitar to Customer 3 at 37.25905194861928
+Shaggy did not sell a Medium Hat to Customer 4
+Shaggy sold a good Guitar String to Customer 5 at 20.773702217528133 after a 10% discount
+Shaggy bought a very good Electric Mandolin from Customer 6 at 31.875981889816305
+Shaggy is cleaning the store
+Item Harmonica (Key of C) broken, removed
+Item Standard Flute broken, removed
+Item MP3 Player damaged, price reduced to 33.83057779440787
+Item MP3 Player broken, removed
+Item MP3 Player broken, removed
+Item 2.0ft Cable damaged, price reduced to 51.18363835335993
+Item 17.0ft Cable damaged, price reduced to 27.574924357861804
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 56.602252385283045
+Item Electric Bass broken, removed
+Item Bandana damaged, price reduced to 36.60083524932705
+Item Electric Bass broken, removed
+Item Paper Score - Moonlight Sonata by Beethoven broken, removed
+Item Paper Score - Moonlight Sonata by Beethoven broken, removed
+Item Electric Bass broken, removed
+Item Electric Bass broken, removed
+Item Medium Hat broken, removed
+Item Electric Bass broken, removed
+Item Paper Score - Moonlight Sonata by Beethoven broken, removed
+Item Electric Bass broken, removed
+Item Medium Hat broken, removed
+Item Medium Hat damaged, price reduced to 59.0272254158366
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 63.0813631996941
+Item Medium Hat damaged, price reduced to 47.22178033266928
+Item Medium Hat damaged, price reduced to 37.77742426613543
+Item CD - Smooth Jazz by Music Guys damaged, price reduced to 22.719717983193767
+Shaggy is leaving the store
+closing register: $896.7855834236406
+
+
+
+====== Day 30======
+Shaggy has arrived at store on day 30
+Unpacked Medium Shirt
+Unpacked Medium Shirt
+Unpacked Medium Shirt
+Unpacked Medium Shirt
+Unpacked Medium Shirt
+Unpacked Medium Shirt
+Unpacked Medium Shirt
+Unpacked Medium Shirt
+There is $896.7855834236406 in the cash register
+out of stock of CDPLAYER
+Shaggy ordered 3 CDPLAYER
+out of stock of RECORDPLAYER
+Shaggy ordered 3 RECORDPLAYER
+out of stock of MP3
+Shaggy ordered 3 MP3
+out of stock of FLUTE
+Shaggy ordered 3 FLUTE
+out of stock of HARMONICA
+Shaggy ordered 3 HARMONICA
+Customer 0 wanted a HARMONICA, but there were none in inventory, so they left.
+Shaggy sold a poor Electric Guitar to Customer 1 at 32.74721362671616 after a 10% discount
+Shaggy sold a good Paper Score - Moonlight Sonata by Beethoven to Customer 2 at 56.602252385283045
+Shaggy sold a very good Electric Bass to Customer 3 at 72.28937537294048
+Shaggy sold a poor Medium Shirt to Customer 4 at 4.356400120770919 after a 10% discount
+Couldn't afford to buy Paper Score - Moonlight Sonata by Beethoven from Customer 5
+Couldn't afford to buy Standard Flute from Customer 6
+Couldn't afford to buy CD - Smooth Jazz by Music Guys from Customer 7
+Shaggy is cleaning the store
+Item Vinyl - Rough Jazz by Music Guys broken, removed
+Item 2.0ft Cable damaged, price reduced to 40.94691068268795
+Item 17.0ft Cable broken, removed
+Item 6.0ft Cable damaged, price reduced to 63.06620365413761
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 39.067344021148315
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 53.15181876793978
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 50.46509055975528
+Item Medium Hat broken, removed
+Item Paper Score - Moonlight Sonata by Beethoven damaged, price reduced to 43.114064672834694
+Item Medium Hat broken, removed
+Item Electric Mandolin broken, removed
+Item Medium Hat broken, removed
+Item Electric Mandolin broken, removed
+Item Medium Hat broken, removed
+Item Electric Mandolin broken, removed
+Item Practice Amp broken, removed
+Item Guitar String damaged, price reduced to 22.692942949160575
+Item Guitar String broken, removed
+Item Medium Shirt damaged, price reduced to 37.44411288808174
+Shaggy is leaving the store
+closing register: $-2.0855009733296903
+
+
+
+====================
+STORE SUMMARY: DAY 31
+====================
+--Inventory--
+Vinyl - Rough Jazz by Music Guys - $42.702088901644714
+9.0ft Cable - $46.79769366488872
+2.0ft Cable - $39.987217463562445
+9.0ft Cable - $46.79769366488872
+2.0ft Cable - $39.987217463562445
+6.0ft Cable - $49.270471604795006
+6.0ft Cable - $49.270471604795006
+Electric Bass - $36.14468768647024
+Medium Hat - $45.433179289418
+Medium Hat - $45.433179289418
+Bandana - $4.301309246448786
+Paper Score - Moonlight Sonata by Beethoven - $33.21988672996236
+Paper Score - Moonlight Sonata by Beethoven - $30.521362516522117
+Bandana - $22.875522030829405
+Paper Score - Moonlight Sonata by Beethoven - $30.521362516522117
+Paper Score - Moonlight Sonata by Beethoven - $33.21988672996236
+Bandana - $22.875522030829405
+Paper Score - Moonlight Sonata by Beethoven - $33.21988672996236
+Paper Score - Moonlight Sonata by Beethoven - $30.521362516522117
+Bandana - $22.875522030829405
+Paper Score - Moonlight Sonata by Beethoven - $30.521362516522117
+Paper Score - Moonlight Sonata by Beethoven - $33.21988672996236
+Bandana - $22.875522030829405
+Paper Score - Moonlight Sonata by Beethoven - $39.42585199980881
+Paper Score - Moonlight Sonata by Beethoven - $26.94629042052168
+Paper Score - Moonlight Sonata by Beethoven - $26.94629042052168
+Paper Score - Moonlight Sonata by Beethoven - $39.42585199980881
+Paper Score - Moonlight Sonata by Beethoven - $39.42585199980881
+Paper Score - Moonlight Sonata by Beethoven - $26.94629042052168
+Paper Score - Moonlight Sonata by Beethoven - $26.94629042052168
+Paper Score - Moonlight Sonata by Beethoven - $39.42585199980881
+CD - Smooth Jazz by Music Guys - $14.199823739496104
+Guitar String - $47.33287736555435
+Guitar String - $47.33287736555435
+CD - Smooth Jazz by Music Guys - $14.199823739496104
+Guitar String - $23.081891352809034
+Medium Shirt - $23.402570555051085
+Medium Shirt - $4.840444578634354
+Medium Shirt - $23.402570555051085
+Medium Shirt - $4.840444578634354
+Medium Shirt - $23.402570555051085
+Medium Shirt - $4.840444578634354
+Medium Shirt - $23.402570555051085
+Total Price of All Items in Inventory: $1312.3597741894876
+--Items Sold--
+Practice Amp - $60.3711365917069
+Vinyl - Rough Jazz by Music Guys - $42.71600725397632
+Standard Flute - $13.864823165332103
+Vinyl - Rough Jazz by Music Guys - $63.57530793905938
+Vinyl - Rough Jazz by Music Guys - $71.68790428124437
+Electric Mandolin - $84.73173408690019
+Record Player - $53.93712538958068
+MP3 Player - $54.86429438947117
+Standard Flute - $53.58460129835146
+Electric Guitar - $70.75779273927058
+Electric Guitar - $21.089053520869978
+Bandana - $39.61640796993217
+CD Player - $78.71696363893162
+Guitar String - $88.20513256019306
+Medium Shirt - $73.24842232294195
+Medium Shirt - $44.94724646495338
+Medium Hat - $14.902792808013459
+MP3 Player - $48.61637166010091
+Electric Bass - $34.286584654235526
+Medium Shirt - $88.614918475482
+Electric Mandolin - $56.80570503546598
+CD - Smooth Jazz by Music Guys - $8.001149359227535
+Bandana - $78.91450211290527
+Practice Amp - $99.67140160700872
+Electric Mandolin - $40.41483517929726
+Guitar String - $99.70542779341743
+Paper Score - Moonlight Sonata by Beethoven - $72.16735086685213
+Record Player - $18.863918063747356
+Practice Amp - $80.36593230873568
+CD Player - $68.17462795238936
+Electric Guitar - $11.04655899595844
+Harmonica (Key of C) - $2.6886614180996853
+Electric Bass - $7.621165221527229
+Vinyl - Rough Jazz by Music Guys - $68.32334224263154
+Record Player - $59.52434916665061
+Paper Score - Moonlight Sonata by Beethoven - $20.597942057368158
+Harmonica (Key of C) - $82.0606893663963
+CD - Smooth Jazz by Music Guys - $84.14114393889038
+Vinyl - Rough Jazz by Music Guys - $68.32334224263154
+CD Player - $20.46854627284816
+Harmonica (Key of C) - $82.0606893663963
+Guitar String - $36.528611409333
+Medium Shirt - $74.66023205136297
+Standard Flute - $73.18448533038361
+Electric Mandolin - $45.25503079677739
+Vinyl - Rough Jazz by Music Guys - $31.951338205413357
+3.0ft Cable - $47.12494885164009
+Guitar String - $36.528611409333
+Medium Shirt - $74.66023205136297
+Electric Bass - $25.708258662316453
+CD Player - $20.46854627284816
+Vinyl - Rough Jazz by Music Guys - $68.32334224263154
+CD - Smooth Jazz by Music Guys - $57.64934549993774
+Electric Bass - $25.708258662316453
+Guitar String - $38.39432313951548
+Record Player - $43.93919861560462
+Paper Score - Moonlight Sonata by Beethoven - $8.467891514552363
+Guitar String - $38.39432313951548
+Harmonica (Key of C) - $16.751226682297983
+Harmonica (Key of C) - $16.751226682297983
+Medium Shirt - $74.66023205136297
+Standard Flute - $56.43717343434981
+CD Player - $59.02809443763972
+Medium Hat - $38.34089709489759
+Medium Shirt - $74.66023205136297
+Record Player - $15.952694140587054
+Bandana - $76.88859079744711
+Electric Guitar - $38.83183138840204
+CD Player - $59.02809443763972
+Electric Mandolin - $83.68268324749724
+Electric Mandolin - $83.68268324749724
+Guitar String - $46.67045846786451
+1.0ft Cable - $69.15670122840338
+Harmonica (Key of C) - $28.031373439911977
+Practice Amp - $46.43436124248008
+Guitar String - $46.67045846786451
+Paper Score - Moonlight Sonata by Beethoven - $36.10358262713237
+Electric Mandolin - $74.18185620421828
+1.0ft Cable - $69.15670122840338
+Electric Mandolin - $74.18185620421828
+Electric Guitar - $38.83183138840204
+Bandana - $76.88859079744711
+Harmonica (Key of C) - $28.031373439911977
+Record Player - $14.677929754238152
+Electric Mandolin - $74.18185620421828
+Paper Score - Moonlight Sonata by Beethoven - $8.467891514552363
+Medium Shirt - $39.65083819538819
+Practice Amp - $46.43436124248008
+Medium Shirt - $61.34875023709537
+Paper Score - Moonlight Sonata by Beethoven - $36.10358262713237
+Record Player - $43.93919861560462
+Practice Amp - $46.43436124248008
+Medium Shirt - $39.65083819538819
+Bandana - $34.204873672007096
+Practice Amp - $46.43436124248008
+Electric Mandolin - $74.18185620421828
+Guitar String - $46.67045846786451
+Guitar String - $46.67045846786451
+Harmonica (Key of C) - $28.031373439911977
+Electric Guitar - $33.53314675375735
+CD Player - $66.15482830236704
+Record Player - $15.952694140587054
+Medium Shirt - $61.34875023709537
+CD - Smooth Jazz by Music Guys - $57.64934549993774
+Paper Score - Moonlight Sonata by Beethoven - $56.602252385283045
+Bandana - $7.742356643607814
+CD Player - $66.15482830236704
+Practice Amp - $45.94009235484754
+Practice Amp - $45.94009235484754
+Record Player - $14.677929754238152
+Electric Mandolin - $5.243022155116416
+Guitar String - $85.19917925799784
+Electric Guitar - $33.53314675375735
+Guitar String - $85.19917925799784
+Electric Guitar - $33.53314675375735
+Guitar String - $41.547404435056265
+Electric Guitar - $33.53314675375735
+Paper Score - Moonlight Sonata by Beethoven - $56.602252385283045
+Electric Bass - $72.28937537294048
+Medium Shirt - $8.712800241541839
+Total Price of All Items Sold: $5922.429643482438
+--Money--
+Current cash register: $-2.0855009733296903
+Total withdrawn from bank: $7000.0
+====================

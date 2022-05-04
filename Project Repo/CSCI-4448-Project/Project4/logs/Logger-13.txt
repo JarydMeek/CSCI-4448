@@ -1,0 +1,26 @@
+========================================
+Daphne arrived at the NorthSide store.
+Daphne - 0 items were added to the inventory.
+Daphne - There is $ 2317.42 in the register.
+Daphne - There are 38 items in the inventory.
+Daphne - The inventory is worth 1249.
+Daphne - 3 items were ordered.
+Daphne - 3 items were ordered.
+Daphne - 1 items were damaged during tuning.
+Daphne - 1 items were bought from customers.
+Daphne - 1 items were sold to customers.
+Daphne - 0 items were damaged during cleaning.
+Daphne has left the store.
+========================================
+Scooby arrived at the SouthSide store.
+Scooby - 2 items were added to the inventory.
+Scooby - There is $ 2555.66 in the register.
+Scooby - There are 36 items in the inventory.
+Scooby - The inventory is worth 1011.
+Scooby - 3 items were ordered.
+Scooby - 3 items were ordered.
+Scooby - 0 items were damaged during tuning.
+Scooby - 2 items were bought from customers.
+Scooby - 2 items were sold to customers.
+Scooby - 7 items were damaged during cleaning.
+Scooby has left the store.

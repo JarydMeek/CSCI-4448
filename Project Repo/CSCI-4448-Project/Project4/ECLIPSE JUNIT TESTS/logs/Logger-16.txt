@@ -1,0 +1,25 @@
+========================================
+Velma arrived at the NorthSide store.
+Velma - 3 items were added to the inventory.
+Velma - There is $ 2437.77 in the register.
+Velma - There are 29 items in the inventory.
+Velma - The inventory is worth 866.
+Velma - 3 items were ordered.
+Velma - 3 items were ordered.
+Velma - 0 items were damaged during tuning.
+Velma - 1 items were bought from customers.
+Velma - 2 items were sold to customers.
+Velma - 1 items were damaged during cleaning.
+Velma has left the store.
+========================================
+Scrappy arrived at the SouthSide store.
+Scrappy - 4 items were added to the inventory.
+Scrappy - There is $ 2648.18 in the register.
+Scrappy - There are 37 items in the inventory.
+Scrappy - The inventory is worth 1205.
+Scrappy - 3 items were ordered.
+Scrappy - 6 items were damaged during tuning.
+Scrappy - 2 items were bought from customers.
+Scrappy - 2 items were sold to customers.
+Scrappy - 17 items were damaged during cleaning.
+Scrappy has left the store.

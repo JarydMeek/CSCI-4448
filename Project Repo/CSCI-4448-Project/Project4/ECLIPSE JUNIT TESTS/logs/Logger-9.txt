@@ -1,0 +1,23 @@
+========================================
+Scooby arrived at the NorthSide store.
+Scooby - 2 items were added to the inventory.
+Scooby - There is $ 1630.09 in the register.
+Scooby - There are 41 items in the inventory.
+Scooby - The inventory is worth 1243.
+Scooby - 0 items were damaged during tuning.
+Scooby - 1 items were bought from customers.
+Scooby - 2 items were sold to customers.
+Scooby - 8 items were damaged during cleaning.
+Scooby has left the store.
+========================================
+Fred arrived at the SouthSide store.
+Fred - 1 items were added to the inventory.
+Fred - There is $ 2361.38 in the register.
+Fred - There are 41 items in the inventory.
+Fred - The inventory is worth 1068.
+Fred - 3 items were ordered.
+Fred - 2 items were damaged during tuning.
+Fred - 2 items were bought from customers.
+Fred - 3 items were sold to customers.
+Fred - 2 items were damaged during cleaning.
+Fred has left the store.

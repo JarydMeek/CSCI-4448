@@ -1,0 +1,25 @@
+========================================
+Velma arrived at the NorthSide store.
+Velma - 0 items were added to the inventory.
+Velma - There is $ 2538.95 in the register.
+Velma - There are 33 items in the inventory.
+Velma - The inventory is worth 913.
+Velma - 0 items were damaged during tuning.
+Velma - 1 items were bought from customers.
+Velma - 3 items were sold to customers.
+Velma - 0 items were damaged during cleaning.
+Velma has left the store.
+========================================
+Shaggy arrived at the SouthSide store.
+Shaggy - 8 items were added to the inventory.
+Shaggy - There is $ 2809.82 in the register.
+Shaggy - There are 30 items in the inventory.
+Shaggy - The inventory is worth 1059.
+Shaggy - 3 items were ordered.
+Shaggy - 3 items were ordered.
+Shaggy - 3 items were ordered.
+Shaggy - 2 items were damaged during tuning.
+Shaggy - 2 items were bought from customers.
+Shaggy - 1 items were sold to customers.
+Shaggy - 11 items were damaged during cleaning.
+Shaggy has left the store.

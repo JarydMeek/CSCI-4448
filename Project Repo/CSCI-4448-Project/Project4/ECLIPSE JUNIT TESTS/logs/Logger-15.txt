@@ -1,0 +1,27 @@
+========================================
+Velma arrived at the NorthSide store.
+Velma - 4 items were added to the inventory.
+Velma - There is $ 2386.35 in the register.
+Velma - There are 27 items in the inventory.
+Velma - The inventory is worth 849.
+Velma - 3 items were ordered.
+Velma - 3 items were ordered.
+Velma - 3 items were ordered.
+Velma - 0 items were damaged during tuning.
+Velma - 0 items were bought from customers.
+Velma - 1 items were sold to customers.
+Velma - 1 items were damaged during cleaning.
+Velma has left the store.
+========================================
+Scooby arrived at the SouthSide store.
+Scooby - 1 items were added to the inventory.
+Scooby - There is $ 2587.17 in the register.
+Scooby - There are 37 items in the inventory.
+Scooby - The inventory is worth 1183.
+Scooby - 3 items were ordered.
+Scooby - 3 items were ordered.
+Scooby - 0 items were damaged during tuning.
+Scooby - 1 items were bought from customers.
+Scooby - 2 items were sold to customers.
+Scooby - 4 items were damaged during cleaning.
+Scooby has left the store.

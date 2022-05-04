@@ -1,0 +1,24 @@
+========================================
+Shaggy arrived at the NorthSide store.
+Shaggy - 0 items were added to the inventory.
+Shaggy - There is $ 1000.00 in the register.
+Shaggy - There are 66 items in the inventory.
+Shaggy - The inventory is worth 2207.
+Shaggy - 3 items were ordered.
+Shaggy - 0 items were damaged during tuning.
+Shaggy - 1 items were bought from customers.
+Shaggy - 1 items were sold to customers.
+Shaggy - 11 items were damaged during cleaning.
+Shaggy has left the store.
+========================================
+Shaggy arrived at the SouthSide store.
+Shaggy - 0 items were added to the inventory.
+Shaggy - There is $ 1000.00 in the register.
+Shaggy - There are 66 items in the inventory.
+Shaggy - The inventory is worth 1804.
+Shaggy - 3 items were ordered.
+Shaggy - 0 items were damaged during tuning.
+Shaggy - 1 items were bought from customers.
+Shaggy - 3 items were sold to customers.
+Shaggy - 10 items were damaged during cleaning.
+Shaggy has left the store.

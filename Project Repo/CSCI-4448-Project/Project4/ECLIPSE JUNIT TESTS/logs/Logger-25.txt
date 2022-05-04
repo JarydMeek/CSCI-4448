@@ -1,0 +1,34 @@
+========================================
+Velma arrived at the NorthSide store.
+Velma - 5 items were added to the inventory.
+Velma - There is $ 2993.04 in the register.
+Velma - There are 31 items in the inventory.
+Velma - The inventory is worth 881.
+Velma - 3 items were ordered.
+Velma - 3 items were ordered.
+Velma - 3 items were ordered.
+Velma - 0 items were damaged during tuning.
+========================================
+Velma arrived at the SouthSide store.
+Velma - 5 items were added to the inventory.
+========================================
+Velma arrived at the SouthSide store.
+Velma - 5 items were added to the inventory.
+Velma - There is $ 3089.15 in the register.
+Velma - There is $ 3089.15 in the register.
+Velma - There are 35 items in the inventory.
+Velma - The inventory is worth 1015.
+Velma - There are 35 items in the inventory.
+Velma - The inventory is worth 1015.
+Velma - 3 items were ordered.
+Velma - 3 items were ordered.
+Velma - 3 items were ordered.
+Velma - 3 items were ordered.
+Velma - 0 items were damaged during tuning.
+Velma - 0 items were damaged during tuning.
+Velma - 2 items were damaged during cleaning.
+Velma - 2 items were damaged during cleaning.
+Velma has left the store.
+Velma has left the store.
+Velma - 1 items were damaged during cleaning.
+Velma has left the store.
